@@ -63,6 +63,11 @@
       <Sha></Sha>
     </DllFile>
     <DllFile>
+      <Text>DeployableEngines. Version: 2.2.0.0</Text>
+      <FilePath>deployableengines/plugins/deployableengines.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
       <Text>DistantObject. Version: 0.0.0.0</Text>
       <FilePath>distantobject/plugins/distantobject.dll</FilePath>
       <Sha></Sha>
@@ -240,6 +245,11 @@
     <DllFile>
       <Text>NearFutureExploration. Version: 0.4.0.0</Text>
       <FilePath>nearfutureexploration/plugins/nearfutureexploration.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>NearFuturePropulsion. Version: 0.9.0.0</Text>
+      <FilePath>nearfuturepropulsion/plugins/nearfuturepropulsion.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
@@ -559,6 +569,137 @@
     <string>nfex-probe-rnd-1</string>
     <string>nfex-probe-sqr-1</string>
     <string>nfex-probe-stp-1</string>
+    <string>nflv-drone-core-5-1</string>
+    <string>nflv-drone-core-75-1</string>
+    <string>nflv-decoupler-5-1</string>
+    <string>nflv-decoupler-75-1</string>
+    <string>nflv-decoupler-radial-1</string>
+    <string>nflv-docking-5-1</string>
+    <string>nflv-separator-5-1</string>
+    <string>nflv-separator-75-1</string>
+    <string>nflv-battery-stack-5-1</string>
+    <string>nflv-battery-stack-75-1</string>
+    <string>nflv-engine-ar1-1</string>
+    <string>nflv-engine-ar1c-1</string>
+    <string>nflv-engine-m1d-1</string>
+    <string>nflv-engine-m1d-vac-1</string>
+    <string>nflv-engine-rd701-1</string>
+    <string>nflv-engine-rd704-1</string>
+    <string>nflv-engine-rs84-1</string>
+    <string>nflv-engine-rutherford-1</string>
+    <string>nflv-engine-rutherford-vac-1</string>
+    <string>nflv-engine-stbe-kero-1</string>
+    <string>nflv-engine-tr107-1</string>
+    <string>nflv-fueltank-5-1</string>
+    <string>nflv-fueltank-5-2</string>
+    <string>nflv-fueltank-5-3</string>
+    <string>nflv-fueltank-5-4</string>
+    <string>nflv-fueltank-75-1</string>
+    <string>nflv-fueltank-75-2</string>
+    <string>nflv-fueltank-75-3</string>
+    <string>nflv-fueltank-75-4</string>
+    <string>nflv-fueltank-75-5</string>
+    <string>nflv-fueltank-adapter-5-375-1</string>
+    <string>nflv-fueltank-adapter-5-375-2</string>
+    <string>nflv-fueltank-adapter-5-375-3</string>
+    <string>nflv-nflv-fueltank-adapter-5-375-4</string>
+    <string>nflv-fueltank-adapter-75-5-1</string>
+    <string>nflv-fueltank-adapter-75-5-2</string>
+    <string>nflv-fueltank-nosecone-5-1</string>
+    <string>nflv-fueltank-nosecone-75-1</string>
+    <string>nflv-fueltank-round-5-1</string>
+    <string>nflv-fueltank-round-75-1</string>
+    <string>nflv-skeletal-adapter-5-375-1</string>
+    <string>nflv-skeletal-adapter-75-5-1</string>
+    <string>nflv-cargo-5-1</string>
+    <string>nflv-cargo-5-2</string>
+    <string>nflv-cargo-5-3</string>
+    <string>nflv-cargo-5-4</string>
+    <string>nflv-cargo-75-1</string>
+    <string>nflv-cargo-75-2</string>
+    <string>nflv-cargo-75-3</string>
+    <string>nflv-cargo-75-4</string>
+    <string>nflv-cargo-nose-5-1</string>
+    <string>nflv-cargo-nose-75-1</string>
+    <string>nflv-fairing-5-1</string>
+    <string>nflv-fairing-75-1</string>
+    <string>nflv-service-bay-5-1</string>
+    <string>nflv-service-bay-75-1</string>
+    <string>nflv-rcs-aero-heavy-1</string>
+    <string>nflv-rcs-aero-heavy-2</string>
+    <string>nflv-rcs-heavy-1x-1</string>
+    <string>nflv-rcs-heavy-1x-2</string>
+    <string>nflv-rcs-heavy-4x-1</string>
+    <string>nflv-rcs-heavy-4x-2</string>
+    <string>nflv-rcs-integrated-3x-1</string>
+    <string>nflv-rcs-integrated-4x-1</string>
+    <string>nflv-rcs-integrated-4x-2</string>
+    <string>nflv-cargo-tube-5-1</string>
+    <string>nflv-cargo-tube-75-1</string>
+    <string>nflv-cluster-mount-lower-5-1</string>
+    <string>nflv-cluster-mount-lower-5-2</string>
+    <string>nflv-cluster-mount-lower-5-3</string>
+    <string>nflv-cluster-mount-lower-5-4</string>
+    <string>nflv-cluster-mount-lower-75-1</string>
+    <string>nflv-cluster-mount-lower-75-2</string>
+    <string>nflv-cluster-mount-upper-5-1</string>
+    <string>nflv-cluster-mount-upper-5-2</string>
+    <string>nflv-cluster-mount-upper-5-3</string>
+    <string>nflv-cluster-mount-upper-75-1</string>
+    <string>nflv-cluster-mount-upper-75-2</string>
+    <string>argon-0625-1</string>
+    <string>argon-0625-2</string>
+    <string>argon-0625-3</string>
+    <string>argon-125-1</string>
+    <string>argon-125-2</string>
+    <string>argon-125-3</string>
+    <string>argon-25-1</string>
+    <string>argon-25-2</string>
+    <string>argon-25-3</string>
+    <string>argon-radial-0625-1</string>
+    <string>argon-radial-125-1</string>
+    <string>ionArgon-0625-2</string>
+    <string>ionArgon-0625-3</string>
+    <string>ionArgon-0625</string>
+    <string>ionXenon-0625-2</string>
+    <string>ionXenon-0625-3</string>
+    <string>ionXenon-0625</string>
+    <string>mpdt-0625</string>
+    <string>mpdt-125</string>
+    <string>mpdt-25</string>
+    <string>pit-0625</string>
+    <string>pit-125</string>
+    <string>pit-25</string>
+    <string>vasimr-0625</string>
+    <string>vasimr-125</string>
+    <string>vasimr-25</string>
+    <string>lithium-0625-1</string>
+    <string>lithium-0625-2</string>
+    <string>lithium-0625-3</string>
+    <string>lithium-125-1</string>
+    <string>lithium-125-2</string>
+    <string>lithium-125-3</string>
+    <string>lithium-25-1</string>
+    <string>lithium-25-2</string>
+    <string>lithium-25-3</string>
+    <string>lithium-radial-0625-1</string>
+    <string>lithium-radial-125-1</string>
+    <string>rcsblock-gridded-01</string>
+    <string>rcsblock-hall-01</string>
+    <string>rcsblock-mpdt-quad-01</string>
+    <string>rcsblock-mpdt-quint-01</string>
+    <string>rcsblock-mpdt-single-01</string>
+    <string>rcsblock-mpdt-triple-01</string>
+    <string>rcsblock-pulsedplasma-01</string>
+    <string>cryoseperator-25</string>
+    <string>gasspectrometer-01</string>
+    <string>xenon-125-1</string>
+    <string>xenon-125-2</string>
+    <string>xenon-125-3</string>
+    <string>xenon-25-1</string>
+    <string>xenon-25-2</string>
+    <string>xenon-25-3</string>
+    <string>xenon-radial-125-1</string>
     <string>nfs-panel-deploying-advanced-1x1-ikonos-1</string>
     <string>nfs-panel-deploying-advanced-1x1-messenger-1</string>
     <string>nfs-panel-deploying-advanced-1x2-mro-1</string>
