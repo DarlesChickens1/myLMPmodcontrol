@@ -13,11 +13,6 @@
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>FilterExtensions. Version: 3.2.9</Text>
-      <FilePath>000_filterextensions/plugins/filterextensions.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
       <Text>0Harmony. Version: 2.2.1.0</Text>
       <FilePath>000_harmony/0harmony.dll</FilePath>
       <Sha></Sha>
@@ -28,7 +23,7 @@
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>ToolbarControl. Version: 0.1.9.9</Text>
+      <Text>ToolbarControl. Version: 0.1.9.11</Text>
       <FilePath>001_toolbarcontrol/plugins/toolbarcontrol.dll</FilePath>
       <Sha></Sha>
     </DllFile>
@@ -38,23 +33,18 @@
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>B9PartSwitch. Version: 2.20.0.0</Text>
+      <Text>B9PartSwitch. Version: 2.18.0.0</Text>
       <FilePath>b9partswitch/plugins/b9partswitch.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>B9_Aerospace_WingStuff. Version: 0.92</Text>
-      <FilePath>b9_aerospace_proceduralwings/plugins/b9_aerospace_wingstuff.dll</FilePath>
+      <Text>B9-PWings-Fork. Version: 0.44.0</Text>
+      <FilePath>b9_aerospace_proceduralwings/plugins/b9-pwings-fork.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>BetterTimeWarpCont. Version: 2.3.13</Text>
-      <FilePath>bettertimewarp/plugins/bettertimewarpcont.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>Chatterer. Version: 0.9.99.2788</Text>
-      <FilePath>chatterer/plugins/chatterer.dll</FilePath>
+      <Text>PlanetsideExplorationTechnologies. Version: 1.0.0.0</Text>
+      <FilePath>benjee10_mmsev/plugins/planetsideexplorationtechnologies.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
@@ -78,17 +68,17 @@
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>MeshEngine. Version: 2.1.1.12</Text>
+      <Text>MeshEngine. Version: 2.1.1.14</Text>
       <FilePath>distantobject/plugins/plugindata/meshengine.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>MeshEngineStock. Version: 2.1.1.12</Text>
+      <Text>MeshEngineStock. Version: 2.1.1.14</Text>
       <FilePath>distantobject/plugins/plugindata/meshenginestock.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>MeshEngineTweakScale. Version: 2.1.1.12</Text>
+      <Text>MeshEngineTweakScale. Version: 2.1.1.14</Text>
       <FilePath>distantobject/plugins/plugindata/meshenginetweakscale.dll</FilePath>
       <Sha></Sha>
     </DllFile>
@@ -98,67 +88,62 @@
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>EditorExtensionsRedux. Version: 3.4.3.6</Text>
-      <FilePath>editorextensionsredux/plugins/editorextensionsredux.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>Atmosphere. Version: 2.1.0.0</Text>
+      <Text>Atmosphere. Version: 1.11.7.1</Text>
       <FilePath>environmentalvisualenhancements/plugins/atmosphere.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>CelestialShadows. Version: 2.1.0.0</Text>
+      <Text>CelestialShadows. Version: 1.11.7.1</Text>
       <FilePath>environmentalvisualenhancements/plugins/celestialshadows.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>CityLights. Version: 2.1.0.0</Text>
+      <Text>CityLights. Version: 1.11.7.1</Text>
       <FilePath>environmentalvisualenhancements/plugins/citylights.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>EVEManager. Version: 2.1.0.0</Text>
+      <Text>EVEManager. Version: 1.11.7.1</Text>
       <FilePath>environmentalvisualenhancements/plugins/evemanager.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>PQSManager. Version: 2.1.0.0</Text>
+      <Text>PQSManager. Version: 1.11.7.1</Text>
       <FilePath>environmentalvisualenhancements/plugins/pqsmanager.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>PartFX. Version: 2.1.0.0</Text>
+      <Text>PartFX. Version: 1.11.7.1</Text>
       <FilePath>environmentalvisualenhancements/plugins/partfx.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>ShaderLoader. Version: 2.1.0.0</Text>
+      <Text>ShaderLoader. Version: 1.11.7.1</Text>
       <FilePath>environmentalvisualenhancements/plugins/shaderloader.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>Terrain. Version: 2.1.0.0</Text>
+      <Text>Terrain. Version: 1.11.7.1</Text>
       <FilePath>environmentalvisualenhancements/plugins/terrain.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>TextureConfig. Version: 2.1.0.0</Text>
+      <Text>TextureConfig. Version: 1.11.7.1</Text>
       <FilePath>environmentalvisualenhancements/plugins/textureconfig.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>Utils. Version: 2.1.0.0</Text>
+      <Text>Utils. Version: 1.11.7.1</Text>
       <FilePath>environmentalvisualenhancements/plugins/utils.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>_BuildManager. Version: 2.1.0.0</Text>
+      <Text>_BuildManager. Version: 1.11.7.1</Text>
       <FilePath>environmentalvisualenhancements/plugins/_buildmanager.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>FreeIva. Version: 0.2.15.2</Text>
+      <Text>FreeIva. Version: 0.2.17.1</Text>
       <FilePath>freeiva/plugins/freeiva.dll</FilePath>
       <Sha></Sha>
     </DllFile>
@@ -168,7 +153,7 @@
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>RasterPropMonitor. Version: 0.31.13.2</Text>
+      <Text>RasterPropMonitor. Version: 0.31.13.3</Text>
       <FilePath>jsi/rasterpropmonitor/plugins/rasterpropmonitor.dll</FilePath>
       <Sha></Sha>
     </DllFile>
@@ -178,7 +163,7 @@
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>KSPCommunityFixes. Version: 1.28.1.0</Text>
+      <Text>KSPCommunityFixes. Version: 1.31.1.0</Text>
       <FilePath>kspcommunityfixes/plugins/kspcommunityfixes.dll</FilePath>
       <Sha></Sha>
     </DllFile>
@@ -193,21 +178,6 @@
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>KerbalJointReinforcement. Version: 3.7.1.0</Text>
-      <FilePath>kerbaljointreinforcement/plugin/kerbaljointreinforcement.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>Kopernicus.Parser. Version: 1.0.0.0</Text>
-      <FilePath>kopernicus/plugins/kopernicus.parser.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>Kopernicus. Version: 1.12.167.0</Text>
-      <FilePath>kopernicus/plugins/kopernicus.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
       <Text>MechJeb2. Version: 2.14.3.0</Text>
       <FilePath>mechjeb2/plugins/mechjeb2.dll</FilePath>
       <Sha></Sha>
@@ -215,26 +185,6 @@
     <DllFile>
       <Text>System.Buffers. Version: 4.6.28619.01</Text>
       <FilePath>mechjeb2/plugins/system.buffers.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>ModularFlightIntegrator. Version: 1.2.10.0</Text>
-      <FilePath>modularflightintegrator/modularflightintegrator.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>DPAI_RPM. Version: 1.0.0.2</Text>
-      <FilePath>navyfish/plugins/docking port alignment indicator/dpai_rpm.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>DockingPortAlignmentIndicator. Version: 6.10.0.0</Text>
-      <FilePath>navyfish/plugins/docking port alignment indicator/dockingportalignmentindicator.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>ModuleDockingNodeNamed. Version: 1.0.0.2</Text>
-      <FilePath>navyfish/plugins/docking port alignment indicator/moduledockingnodenamed.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
@@ -258,98 +208,33 @@
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>Grass. Version: 0.0.0.0</Text>
-      <FilePath>parallax/grass.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>ParallaxOptimized. Version: 1.0.0.0</Text>
-      <FilePath>parallax/parallaxoptimized.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>ParallaxQualityLibrary. Version: 1.0.0.0</Text>
-      <FilePath>parallax/parallaxqualitylibrary.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>PlanetShine. Version: 0.2.6.6</Text>
-      <FilePath>planetshine/plugins/planetshine.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>PlanetarySurfaceStructures. Version: 1.6.16.0</Text>
-      <FilePath>planetarybaseinc/basesystem/plugins/planetarysurfacestructures.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
       <Text>ProbeControlRoomRecontrolled. Version: 1.3.3.0</Text>
       <FilePath>probecontrolroom/plugins/probecontrolroomrecontrolled.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>RCSBuildAid. Version: 1.0.6.35359</Text>
-      <FilePath>rcsbuildaid/plugins/rcsbuildaid.dll</FilePath>
+      <Text>Restock. Version: 0.1.0.0</Text>
+      <FilePath>restock/plugins/restock.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>RCSBuildAidToolbar. Version: 1.0.6.35359</Text>
-      <FilePath>rcsbuildaid/plugins/rcsbuildaidtoolbar.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>ReentryParticleEffectRenewed. Version: 1.8.1.0</Text>
-      <FilePath>reentryparticleeffectrenewed/plugin/reentryparticleeffectrenewed.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>Scatterer. Version: 0.854.0.0</Text>
+      <Text>Scatterer. Version: 0.838.0.0</Text>
       <FilePath>scatterer/scatterer.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>SmokeScreen. Version: 2.8.14.0</Text>
-      <FilePath>smokescreen/smokescreen.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>SoundtrackEditorForked. Version: 4.7.1.8</Text>
-      <FilePath>soundtrackeditorforked/plugins/soundtrackeditorforked.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>ButtonManager. Version: 1.0.1.1</Text>
-      <FilePath>spacetuxlibrary/plugins/buttonmanager.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>KSP_ColorPicker. Version: 1.1.0.5</Text>
-      <FilePath>spacetuxlibrary/plugins/ksp_colorpicker.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>KSP_Log. Version: 1.2.0</Text>
-      <FilePath>spacetuxlibrary/plugins/ksp_log.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>KSP_PartHighlighter. Version: 1.1.0.10</Text>
-      <FilePath>spacetuxlibrary/plugins/ksp_parthighlighter.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>SpaceTuxUtility. Version: 1.0.1.3</Text>
-      <FilePath>spacetuxlibrary/plugins/spacetuxutility.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>VesselModuleSave. Version: 1.0.1.2</Text>
-      <FilePath>spacetuxlibrary/plugins/vesselmodulesave.dll</FilePath>
+      <Text>Shabby. Version: 0.3.0.0</Text>
+      <FilePath>shabby/plugins/shabby.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
       <Text>HabUtils. Version: 1.0.0.0</Text>
       <FilePath>stationpartsexpansionredux/plugins/habutils.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>TUFX. Version: 1.0.7.1</Text>
+      <FilePath>tufx/plugins/tufx.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
@@ -363,8 +248,8 @@
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>Trajectories. Version: 2.4.3.0</Text>
-      <FilePath>trajectories/plugin/trajectories.dll</FilePath>
+      <Text>VesselMover. Version: 1.12.0.0</Text>
+      <FilePath>vesselmover/plugins/vesselmover.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
@@ -383,11 +268,6 @@
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>VesselViewPlugin. Version: 0.8.9</Text>
-      <FilePath>vesselview/plugins/vesselviewplugin.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
       <Text>VesselViewRPM. Version: 0.8.9</Text>
       <FilePath>vesselview/plugins/vesselviewrpm.dll</FilePath>
       <Sha></Sha>
@@ -395,11 +275,6 @@
     <DllFile>
       <Text>Waterfall. Version: 0.0.0.0</Text>
       <FilePath>waterfall/plugins/waterfall.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>KerbalActuators. Version: 1.0.0.0</Text>
-      <FilePath>wildblueindustries/001kerbalactuators/plugins/kerbalactuators.dll</FilePath>
       <Sha></Sha>
     </DllFile>
   </OptionalPlugins>
@@ -418,11 +293,81 @@
     <string>B9.Aero.Wing.Procedural.TypeA</string>
     <string>B9.Aero.Wing.Procedural.TypeB</string>
     <string>B9.Aero.Wing.Procedural.TypeC</string>
+    <string>Benjee10.MMSEV.chassis</string>
+    <string>Benjee10.MMSEV.grapple</string>
+    <string>Benjee10.MMSEV.headlight</string>
+    <string>Benjee10.MMSEV</string>
+    <string>Benjee10.MMSEV.monopropSled</string>
+    <string>Benjee10.MMSEV.wheelLinear</string>
+    <string>Benjee10.MMSEV.wheelMount</string>
+    <string>Benjee10.MMSEV.baseHDU</string>
+    <string>Benjee10.base.HDU.attic</string>
+    <string>Benjee10.base.HDU.base</string>
+    <string>Benjee10.MMSEV.baseHDU.hab</string>
+    <string>Benjee10.MMSEV.adapter.0-9375</string>
+    <string>Benjee10.MMSEV.crewTube0</string>
+    <string>Benjee10.MMSEV.crewTube1</string>
+    <string>Benjee10.MMSEV.crewTube2</string>
+    <string>Benjee10.MMSEV.baseDockLowProfile</string>
+    <string>Benjee10.MMSEV.endCapRound</string>
+    <string>Benjee10.MMSEV.baseGreenhouse</string>
+    <string>Benjee10.MMSEV.baseHabLong</string>
+    <string>Benjee10.MMSEV.baseHabShort</string>
+    <string>Benjee10.MMSEV.baseLab</string>
+    <string>Benjee10.MMSEV.baseLander</string>
+    <string>Benjee10.MMSEV.baseLifter</string>
+    <string>Benjee10.MMSEV.logisticslong</string>
+    <string>Benjee10.MMSEV.logisticsShort</string>
+    <string>Benjee10.MMSEV.baseMount1-875</string>
+    <string>Benjee10.MMSEV.baseNode1-25</string>
+    <string>Benjee10.MMSEV.baseNode.vertical</string>
+    <string>Benjee10.base.platform</string>
+    <string>Benjee10.MMSEV.baseRadiator</string>
+    <string>Benjee10.MMSEV.baseRailings</string>
+    <string>Benjee10.MMSEV.baseSolarArray</string>
+    <string>Benjee10.base.stairs</string>
+    <string>Benjee10.MMSEV.base.TNode1-25</string>
+    <string>Benjee10.MMSEV.baseTurbineBoom</string>
+    <string>Benjee10.MMSEV.baseTurbineBoomMount</string>
+    <string>Benjee10.MMSEV.baseTurbineGiant</string>
+    <string>Benjee10.MMSEV.baseTurbineHelicalLarge1</string>
+    <string>Benjee10.MMSEV.baseTurbineHelicalLarge2</string>
+    <string>Benjee10.MMSEV.baseTurbineHelicalSmall</string>
+    <string>Benjee10.MMSEV.baseTurbineHelicalTiny</string>
+    <string>Benjee10.MMSEV.baseTurbineHighDensity</string>
+    <string>Benjee10.MMSEV.baseTurbineLowDensity</string>
+    <string>Benjee10.MMSEV.baseTurbineMedDensity</string>
+    <string>Benjee10.MMSEV.baseTurbineMotor</string>
+    <string>B10.APASv2</string>
+    <string>B10.IDA</string>
+    <string>B10.NDS</string>
+    <string>B10.hybrid.female</string>
+    <string>B10.hybrid.male</string>
+    <string>ht2.CBM</string>
+    <string>ht2.CBM.active1</string>
+    <string>ht2.CBM.active2</string>
+    <string>benjee10.AJ10.v2</string>
+    <string>radiator-conformal-1</string>
+    <string>radiator-conformal-2</string>
+    <string>radiator-conformal-3</string>
+    <string>radiator-universal-1</string>
+    <string>radiator-universal-2</string>
+    <string>radiator-universal-3</string>
+    <string>radiator-fixed-1</string>
+    <string>radiator-fixed-2</string>
+    <string>radiator-fixed-3</string>
+    <string>radiator-fixed-4</string>
+    <string>radiator-microchannel-1</string>
+    <string>radiator-microchannel-2</string>
+    <string>radiator-microchannel-fixed-1</string>
+    <string>radiator-microchannel-fixed-2</string>
+    <string>radiator-surface-125-1</string>
+    <string>radiator-surface-25-1</string>
+    <string>radiator-surface-375-1</string>
+    <string>heat-exchanger-125-1</string>
+    <string>heat-exchanger-25-1</string>
     <string>JSIPrimitiveExternalCamera.v2</string>
     <string>JSIPrimitiveExternalCamera</string>
-    <string>ju1MDA</string>
-    <string>jw1MDA</string>
-    <string>jx2LDA</string>
     <string>Engineer7500</string>
     <string>EngineerChip</string>
     <string>mumech.MJ2.AR202</string>
@@ -733,74 +678,130 @@
     <string>nfs-panel-static-truss-3</string>
     <string>nfs-panel-static-curved-25-1</string>
     <string>nfs-panel-static-curved-375-1</string>
-    <string>KKAOSS.INV.FuelTank.small</string>
-    <string>KKAOSS.INV.FuelTank</string>
-    <string>KKAOSS.INV.Tank</string>
-    <string>KKAOSS.INV.Tank.big</string>
-    <string>KKAOSS.INV.FuelTank.small.2</string>
-    <string>KKAOSS.INV.FuelTank.2</string>
-    <string>KKAOSS.Central.Hub</string>
-    <string>KKAOSS.Automatic.Control.g</string>
-    <string>KKAOSS.Control.g</string>
-    <string>KKAOSS.Cupola.g</string>
-    <string>KKAOSS.Landing.Control.g</string>
-    <string>KKAOSS.Service.g</string>
-    <string>KKAOSS.Centrifuge</string>
-    <string>KKAOSS.Nuclear.Fuel</string>
-    <string>KKAOSS.Nuclear.Reactor</string>
-    <string>KKAOSS.Fuel.Tank</string>
-    <string>KKAOSS.Fuel.Tank.small</string>
-    <string>KKAOSS.drill</string>
-    <string>KKAOSS.ISRU.g</string>
-    <string>KKAOSS.Science.g</string>
-    <string>KKAOSS.adapter.base.to.MK2.g</string>
-    <string>KKAOSS.adapter.base.to.Size1.g</string>
-    <string>KKAOSS.base.bicupler</string>
-    <string>KKAOSS.base.separator</string>
-    <string>KKAOSS.base.tricupler</string>
-    <string>KKAOSS.base.heatshield</string>
-    <string>KKAOSS.gangway.2.adapter</string>
-    <string>KKAOSS.corridor.4</string>
-    <string>KKAOSS.corridor.6</string>
-    <string>KKAOSS.gangway.airlock</string>
-    <string>KKAOSS.gangway.end</string>
-    <string>KKAOSS.CrossSection.g</string>
-    <string>KKAOSS.dock.gangway</string>
-    <string>KKAOSS.dock.habitat</string>
-    <string>KKAOSS.engine.g</string>
-    <string>KKAOSS.adapter.g</string>
-    <string>KKAOSS.Flatbed</string>
-    <string>KKAOSS.airlock.end.g</string>
-    <string>KKAOSS.airlock.mid.g</string>
-    <string>KKAOSS.garage.adapter.g.2</string>
-    <string>KKAOSS.garage.cover.g.2</string>
-    <string>KKAOSS.garage.decoupler.g</string>
-    <string>KKAOSS.garage.front.g.2</string>
-    <string>KKAOSS.garage.side.g.2</string>
-    <string>KKAOSS.garage.struct.g.2</string>
-    <string>KKAOSS.garage.adapter.size3.g</string>
-    <string>KKAOSS.Greenhouse.g</string>
-    <string>KKAOSS.Habitat.MK1.g</string>
-    <string>KKAOSS.Habitat.MK2.g</string>
-    <string>KKAOSS.Landing.Gear2.g</string>
-    <string>KKAOSS.Landing.Leg.g</string>
-    <string>KKAOSS.Landing.Leg2.g</string>
-    <string>KKAOSS.Storage.End.Cap.Storage</string>
-    <string>KKAOSS.Storage.size2.m</string>
-    <string>KKAOSS.Storage.size2.s</string>
-    <string>KKAOSS.Storage.g</string>
-    <string>KKAOSS.Storage.mid.g</string>
-    <string>KKAOSS.Storage.mini.g</string>
-    <string>KKAOSS.Battery.Tank</string>
-    <string>KKAOSS.RCS.Tank</string>
-    <string>KKAOSS.Fuelcell.Tank</string>
-    <string>KKAOSS.Liquid.Fuel.Tank</string>
-    <string>KKAOSS.Ore.Tank</string>
-    <string>KKAOSS.Small.Ore.Tank</string>
-    <string>KKAOSS.Rocket.Fuel.Tank</string>
-    <string>KKAOSS.small.Rocket.Fuel.Tank</string>
-    <string>KKAOSS.ScienceJr.Tank</string>
-    <string>KKAOSS.Xenon.Tank</string>
+    <string>restock-nosecone-0625-1</string>
+    <string>restock-heatshield-1875-1</string>
+    <string>restock-nosecone-1875-1</string>
+    <string>restock-nosecone-1875-2</string>
+    <string>restock-nosecone-5-1</string>
+    <string>restock-drone-core-0625-1</string>
+    <string>restock-pod-sphere-1</string>
+    <string>restock-pod-sphere-2</string>
+    <string>restock-pod-sphere-3</string>
+    <string>restock-drone-core-1875-1</string>
+    <string>restock-mk2-pod</string>
+    <string>restock-drone-core-375-1</string>
+    <string>restock-antenna-stack-2</string>
+    <string>restock-antenna-stack-3</string>
+    <string>restock-relay-radial-2</string>
+    <string>restock-relay-radial-2.v2</string>
+    <string>restock-reactionwheel-1875-1</string>
+    <string>restock-reactionwheel-radial-1</string>
+    <string>restock-rcs-block-dual-1</string>
+    <string>restock-rcs-block-dual-mini-1</string>
+    <string>restock-rcs-block-multi-2</string>
+    <string>restock-rcs-block-multi-mini-2</string>
+    <string>restock-rcs-block-quad-angled-1</string>
+    <string>restock-rcs-block-quad-angled-mini-1</string>
+    <string>restock-rcs-block-quad-mini-1</string>
+    <string>restock-rcs-block-quint-1</string>
+    <string>restock-rcs-block-qunit-mini-1</string>
+    <string>restock-rcs-block-triple-angled-1</string>
+    <string>restock-rcs-block-triple-angled-mini-1</string>
+    <string>restock-rcs-single-mini-1</string>
+    <string>restock-airlock-1</string>
+    <string>restock-claw-625-1</string>
+    <string>restock-engineplate-125-1</string>
+    <string>restock-engineplate-125-2</string>
+    <string>restock-decoupler-1875-1</string>
+    <string>restock-decoupler-1875-truss-1</string>
+    <string>restock-engineplate-1875-1</string>
+    <string>restock-separator-1875-1</string>
+    <string>restock-engineplate-25-1</string>
+    <string>restock-docking-375-1</string>
+    <string>restock-engineplate-375-1</string>
+    <string>restock-decoupler-5-1</string>
+    <string>restock-engineplate-5-1</string>
+    <string>restock-separator-5-1</string>
+    <string>restock-decoupler-radial-tiny-1</string>
+    <string>restock-battery-1875-1</string>
+    <string>restock-battery-375-1</string>
+    <string>restock-apu-radial-1</string>
+    <string>restock-engine-les-2</string>
+    <string>restock-engine-torch</string>
+    <string>restock-srb-mallet-1</string>
+    <string>restock-srb-striker-1</string>
+    <string>restock-engine-125-pug</string>
+    <string>restock-engine-125-valiant</string>
+    <string>restock-engine-caravel-1</string>
+    <string>restock-engine-galleon-1</string>
+    <string>restock-engine-schnauzer-1</string>
+    <string>restock-engine-ursa-1</string>
+    <string>restock-srb-anvil-1</string>
+    <string>restock-srb-castor-1</string>
+    <string>restock-engine-boar</string>
+    <string>restock-engine-cherenkov</string>
+    <string>restock-engine-375-corgi</string>
+    <string>restock-engine-panda-1</string>
+    <string>restock-fueltank-sphere-0625-1</string>
+    <string>restock-fuel-tank-0625-1</string>
+    <string>restock-fuel-tank-0625-2</string>
+    <string>restock-fuel-tank-0625-3</string>
+    <string>restock-fuel-tank-0625-5</string>
+    <string>restock-fuel-tank-probe-1</string>
+    <string>restock-fuel-tank-probe-2</string>
+    <string>restock-fueltank-sphere-125-1</string>
+    <string>restock-fuel-tank-rcs-1875-1</string>
+    <string>restock-fueltank-sphere-1875-1</string>
+    <string>restock-fueltank-1875-1</string>
+    <string>restock-fueltank-1875-2</string>
+    <string>restock-fueltank-1875-3</string>
+    <string>restock-fueltank-1875-4</string>
+    <string>restock-fueltank-1875-soyuz-1</string>
+    <string>restock-fueltank-adapter-1875-0625-1</string>
+    <string>restock-fueltank-adapter-1875-125-1</string>
+    <string>restock-fueltank-adapter-1875-125-2</string>
+    <string>restock-fueltank-adapter-25-1875-1</string>
+    <string>restock-fueltank-sphere-25-1</string>
+    <string>restock-fuel-tank-375-4</string>
+    <string>restock-fuel-tank-rcs-375-1</string>
+    <string>restock-fueltank-sphere-375-1</string>
+    <string>restock-nosecone-375-1</string>
+    <string>restock-fueltank-5-1</string>
+    <string>restock-fueltank-5-2</string>
+    <string>restock-fueltank-5-3</string>
+    <string>restock-fueltank-5-4</string>
+    <string>restock-fueltank-adapter-375-5-1</string>
+    <string>restock-fueltank-saturn-engine-1</string>
+    <string>restock-fuel-tank-rcs-radial-tiny-1</string>
+    <string>restock-wheel-1-T</string>
+    <string>restock-wheel-4</string>
+    <string>restock-fairing-base-0625-1</string>
+    <string>restock-service-module-125-625-1</string>
+    <string>restock-fairing-base-1875-1</string>
+    <string>restock-service-bay-1875-1</string>
+    <string>restock-service-module-1875-1</string>
+    <string>restock-fairing-base-5-1</string>
+    <string>restock-oretank-1875-1</string>
+    <string>restock-oretank-375-1</string>
+    <string>restock-goocanister-625-1</string>
+    <string>restock-materialbay-radial-1</string>
+    <string>restock-sciencebox-stack-1</string>
+    <string>restock-structural-tube-125-1</string>
+    <string>restock-adapter-1875-125-1</string>
+    <string>restock-adapter-1875-25-1</string>
+    <string>restock-node-1875-1</string>
+    <string>restock-structural-tube-1875-1</string>
+    <string>restock-structural-tube-25-1</string>
+    <string>restock-adapter-hollow-25-375-1</string>
+    <string>restock-adapter-skeletal-25-375-1</string>
+    <string>restock-structural-tube-375-1</string>
+    <string>restock-structural-tube-5-1</string>
+    <string>restock-node-625-1</string>
+    <string>restock-truss-3</string>
+    <string>restock-truss-adapter-0625-1</string>
+    <string>restock-truss-hub-1</string>
+    <string>restock-ladder-static-2</string>
+    <string>restock-ladder-static-3</string>
     <string>HeatShield0</string>
     <string>HeatShield1</string>
     <string>HeatShield2</string>
@@ -1387,8 +1388,6 @@
     <string>sspx-lab-pallet-2</string>
     <string>sspx-logistics-5-1</string>
     <string>sspx-logistics-5-2</string>
-    <string>wbiSampleArm</string>
-    <string>wbiSampleCrane</string>
   </AllowedParts>
   <AllowedResources>
     <string>Hydrates</string>
@@ -1562,10 +1561,6 @@
     <string>Glykerol</string>
     <string>FusionPellets</string>
     <string>MJPropellant</string>
-    <string>_KPBS_reprocessor_Centrifuge</string>
-    <string>_KPBS_xenonextractor_Centrifuge</string>
-    <string>_KPBS_uraniumextractor_Centrifuge</string>
-    <string>_KPBSNukereactor</string>
     <string>LiquidFuel</string>
     <string>Oxidizer</string>
     <string>SolidFuel</string>
