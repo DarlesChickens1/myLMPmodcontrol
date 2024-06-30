@@ -8,8 +8,13 @@
   <MandatoryPlugins></MandatoryPlugins>
   <OptionalPlugins>
     <DllFile>
-      <Text>ClickThroughBlocker. Version: 2.1.10.21</Text>
-      <FilePath>000_clickthroughblocker/plugins/clickthroughblocker.dll</FilePath>
+      <Text>DeployableEngines. Version: 2.2.0.0</Text>
+      <FilePath>deployableengines/plugins/deployableengines.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>DynamicBatteryStorage. Version: 1.0.0.0</Text>
+      <FilePath>dynamicbatterystorage/plugins/dynamicbatterystorage.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
@@ -23,128 +28,43 @@
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>ToolbarControl. Version: 0.1.9.11</Text>
-      <FilePath>001_toolbarcontrol/plugins/toolbarcontrol.dll</FilePath>
+      <Text>NearFutureElectrical. Version: 1.0.0.0</Text>
+      <FilePath>nearfutureelectrical/plugins/nearfutureelectrical.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>ASETPropsIdentifier. Version: 1.5.0.0</Text>
-      <FilePath>aset/aset_props/plugin/asetpropsidentifier.dll</FilePath>
+      <Text>NFPropUtils. Version: 1.0.0.0</Text>
+      <FilePath>nearfutureprops/plugins/nfproputils.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>B9PartSwitch. Version: 2.18.0.0</Text>
-      <FilePath>b9partswitch/plugins/b9partswitch.dll</FilePath>
+      <Text>RocketSoundEnhancement. Version: 0.9.11.31642</Text>
+      <FilePath>rocketsoundenhancement/plugins/rocketsoundenhancement.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>B9-PWings-Fork. Version: 0.44.0</Text>
+      <Text>RocketSoundEnhancement.Unity. Version: 1.0.0.0</Text>
+      <FilePath>rocketsoundenhancement/plugins/rocketsoundenhancement.unity.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>AtmosphereAutopilot.UI. Version: 1.0.0.0</Text>
+      <FilePath>atmosphereautopilot/atmosphereautopilot.ui.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>AtmosphereAutopilot. Version: 1.6.1.0</Text>
+      <FilePath>atmosphereautopilot/atmosphereautopilot.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>B9-PWings-Fork. Version: 0.45.1</Text>
       <FilePath>b9_aerospace_proceduralwings/plugins/b9-pwings-fork.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>PlanetsideExplorationTechnologies. Version: 1.0.0.0</Text>
-      <FilePath>benjee10_mmsev/plugins/planetsideexplorationtechnologies.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>CCK. Version: 5.1.0.0</Text>
-      <FilePath>communitycategorykit/cck.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>DeployableEngines. Version: 2.2.0.0</Text>
-      <FilePath>deployableengines/plugins/deployableengines.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>DistantObject. Version: 0.0.0.0</Text>
-      <FilePath>distantobject/plugins/distantobject.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>KSPe.Light.DOE. Version: 2.4.2.9</Text>
-      <FilePath>distantobject/plugins/kspe.light.doe.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>MeshEngine. Version: 2.1.1.14</Text>
-      <FilePath>distantobject/plugins/plugindata/meshengine.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>MeshEngineStock. Version: 2.1.1.14</Text>
-      <FilePath>distantobject/plugins/plugindata/meshenginestock.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>MeshEngineTweakScale. Version: 2.1.1.14</Text>
-      <FilePath>distantobject/plugins/plugindata/meshenginetweakscale.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>DynamicBatteryStorage. Version: 1.0.0.0</Text>
-      <FilePath>dynamicbatterystorage/plugins/dynamicbatterystorage.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>Atmosphere. Version: 1.11.7.1</Text>
-      <FilePath>environmentalvisualenhancements/plugins/atmosphere.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>CelestialShadows. Version: 1.11.7.1</Text>
-      <FilePath>environmentalvisualenhancements/plugins/celestialshadows.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>CityLights. Version: 1.11.7.1</Text>
-      <FilePath>environmentalvisualenhancements/plugins/citylights.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>EVEManager. Version: 1.11.7.1</Text>
-      <FilePath>environmentalvisualenhancements/plugins/evemanager.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>PQSManager. Version: 1.11.7.1</Text>
-      <FilePath>environmentalvisualenhancements/plugins/pqsmanager.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>PartFX. Version: 1.11.7.1</Text>
-      <FilePath>environmentalvisualenhancements/plugins/partfx.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>ShaderLoader. Version: 1.11.7.1</Text>
-      <FilePath>environmentalvisualenhancements/plugins/shaderloader.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>Terrain. Version: 1.11.7.1</Text>
-      <FilePath>environmentalvisualenhancements/plugins/terrain.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>TextureConfig. Version: 1.11.7.1</Text>
-      <FilePath>environmentalvisualenhancements/plugins/textureconfig.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>Utils. Version: 1.11.7.1</Text>
-      <FilePath>environmentalvisualenhancements/plugins/utils.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>_BuildManager. Version: 1.11.7.1</Text>
-      <FilePath>environmentalvisualenhancements/plugins/_buildmanager.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>FreeIva. Version: 0.2.17.1</Text>
-      <FilePath>freeiva/plugins/freeiva.dll</FilePath>
+      <Text>B9PartSwitch. Version: 2.20.0.0</Text>
+      <FilePath>b9partswitch/plugins/b9partswitch.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
@@ -153,28 +73,8 @@
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>RasterPropMonitor. Version: 0.31.13.3</Text>
-      <FilePath>jsi/rasterpropmonitor/plugins/rasterpropmonitor.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>0_MultipleModuleInPartAPI. Version: 1.0.0.0</Text>
-      <FilePath>kspcommunityfixes/plugins/0_multiplemoduleinpartapi.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>KSPCommunityFixes. Version: 1.31.1.0</Text>
-      <FilePath>kspcommunityfixes/plugins/kspcommunityfixes.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>KerbalEngineer.Unity. Version: 1.0.0.0</Text>
-      <FilePath>kerbalengineer/kerbalengineer.unity.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>KerbalEngineer. Version: 1.1.9.0</Text>
-      <FilePath>kerbalengineer/kerbalengineer.dll</FilePath>
+      <Text>KerbalActuators. Version: 1.0.0.0</Text>
+      <FilePath>wildblueindustries/001kerbalactuators/plugins/kerbalactuators.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
@@ -188,38 +88,8 @@
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>NearFutureElectrical. Version: 1.0.0.0</Text>
-      <FilePath>nearfutureelectrical/plugins/nearfutureelectrical.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>NearFutureExploration. Version: 0.4.0.0</Text>
-      <FilePath>nearfutureexploration/plugins/nearfutureexploration.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>NearFuturePropulsion. Version: 0.9.0.0</Text>
-      <FilePath>nearfuturepropulsion/plugins/nearfuturepropulsion.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>NearFutureSolar. Version: 0.4.0.0</Text>
-      <FilePath>nearfuturesolar/plugins/nearfuturesolar.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>ProbeControlRoomRecontrolled. Version: 1.3.3.0</Text>
-      <FilePath>probecontrolroom/plugins/probecontrolroomrecontrolled.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>Restock. Version: 0.1.0.0</Text>
-      <FilePath>restock/plugins/restock.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>Scatterer. Version: 0.838.0.0</Text>
-      <FilePath>scatterer/scatterer.dll</FilePath>
+      <Text>Waterfall. Version: 0.0.0.0</Text>
+      <FilePath>waterfall/plugins/waterfall.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
@@ -228,53 +98,303 @@
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>HabUtils. Version: 1.0.0.0</Text>
-      <FilePath>stationpartsexpansionredux/plugins/habutils.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
       <Text>TUFX. Version: 1.0.7.1</Text>
       <FilePath>tufx/plugins/tufx.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>TextureReplacer. Version: 4.5.3.925</Text>
-      <FilePath>texturereplacer/plugins/texturereplacer.dll</FilePath>
+      <Text>ModularClimateWeatherSystems. Version: 0.9.5.0</Text>
+      <FilePath>modularclimateweathersystems/modularclimateweathersystems.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
-      <Text>ThroughTheEyes. Version: 2.0.4.4</Text>
-      <FilePath>throughtheeyes/plugins/throughtheeyes.dll</FilePath>
+      <Text>Atmosphere. Version: 2.3.3.0</Text>
+      <FilePath>environmentalvisualenhancements/plugins/atmosphere.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>CelestialShadows. Version: 2.3.3.0</Text>
+      <FilePath>environmentalvisualenhancements/plugins/celestialshadows.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>CityLights. Version: 2.3.3.0</Text>
+      <FilePath>environmentalvisualenhancements/plugins/citylights.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>EVEManager. Version: 2.3.3.0</Text>
+      <FilePath>environmentalvisualenhancements/plugins/evemanager.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>PartFX. Version: 2.3.3.0</Text>
+      <FilePath>environmentalvisualenhancements/plugins/partfx.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>PQSManager. Version: 2.3.3.0</Text>
+      <FilePath>environmentalvisualenhancements/plugins/pqsmanager.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>ShaderLoader. Version: 2.3.3.0</Text>
+      <FilePath>environmentalvisualenhancements/plugins/shaderloader.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>Terrain. Version: 2.3.3.0</Text>
+      <FilePath>environmentalvisualenhancements/plugins/terrain.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>TextureConfig. Version: 2.3.3.0</Text>
+      <FilePath>environmentalvisualenhancements/plugins/textureconfig.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>Utils. Version: 2.3.3.0</Text>
+      <FilePath>environmentalvisualenhancements/plugins/utils.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>_BuildManager. Version: 2.3.3.0</Text>
+      <FilePath>environmentalvisualenhancements/plugins/_buildmanager.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>Scatterer. Version: 0.877.0.0</Text>
+      <FilePath>scatterer/scatterer.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>MouseAimFlight. Version: 0.0.0.0</Text>
+      <FilePath>mouseaimflight/plugins/mouseaimflight.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>0_MultipleModuleInPartAPI. Version: 1.0.0.0</Text>
+      <FilePath>kspcommunityfixes/plugins/0_multiplemoduleinpartapi.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>0_System.Buffers. Version: 4.6.28619.01</Text>
+      <FilePath>kspcommunityfixes/plugins/0_system.buffers.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>0_System.Memory. Version: 4.6.28619.01</Text>
+      <FilePath>kspcommunityfixes/plugins/0_system.memory.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>0_System.Numerics. Version: 4.6.57.0</Text>
+      <FilePath>kspcommunityfixes/plugins/0_system.numerics.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>KSPCommunityFixes. Version: 1.35.2.0</Text>
+      <FilePath>kspcommunityfixes/plugins/kspcommunityfixes.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>System.Numerics.Vectors. Version: 4.6.57.0</Text>
+      <FilePath>kspcommunityfixes/plugins/system.numerics.vectors.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>System.Runtime.CompilerServices.Unsafe. Version: 5.0.20.51904</Text>
+      <FilePath>kspcommunityfixes/plugins/system.runtime.compilerservices.unsafe.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>System.Text.Encoding.CodePages. Version: 5.0.20.51904</Text>
+      <FilePath>kspcommunityfixes/plugins/system.text.encoding.codepages.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>ASETPropsIdentifier. Version: 1.5.0.0</Text>
+      <FilePath>aset/aset_props/plugin/asetpropsidentifier.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>CustomPreLaunchChecks. Version: 1.8.1.0</Text>
+      <FilePath>customprelaunchchecks/customprelaunchchecks.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>SmokeScreen. Version: 2.8.14.0</Text>
+      <FilePath>smokescreen/smokescreen.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>KSP_ColorPicker. Version: 1.1.0.5</Text>
+      <FilePath>spacetuxlibrary/plugins/ksp_colorpicker.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>KSP_PartHighlighter. Version: 1.1.0.10</Text>
+      <FilePath>spacetuxlibrary/plugins/ksp_parthighlighter.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>SpaceTuxUtility. Version: 1.0.1.3</Text>
+      <FilePath>spacetuxlibrary/plugins/spacetuxutility.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>KSP_Log. Version: 1.2.0.1</Text>
+      <FilePath>spacetuxlibrary/plugins/ksp_log.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>ButtonManager. Version: 1.0.1.1</Text>
+      <FilePath>spacetuxlibrary/plugins/buttonmanager.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>VesselModuleSave. Version: 1.0.1.2</Text>
+      <FilePath>spacetuxlibrary/plugins/vesselmodulesave.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>BlendshapeModelLoader. Version: 1.0.0.0</Text>
+      <FilePath>000_texturesunlimited/plugins/blendshapemodelloader.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>TexturesUnlimited. Version: 0.0.0.0</Text>
+      <FilePath>000_texturesunlimited/plugins/texturesunlimited.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>ToolbarControl. Version: 0.1.9.11</Text>
+      <FilePath>001_toolbarcontrol/plugins/toolbarcontrol.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>ClickThroughBlocker. Version: 2.1.10.21</Text>
+      <FilePath>000_clickthroughblocker/plugins/clickthroughblocker.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>LazyPainter. Version: 1.0.0.0</Text>
+      <FilePath>lazypainter/plugins/lazypainter.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>RasterPropMonitor. Version: 0.31.13.4</Text>
+      <FilePath>jsi/rasterpropmonitor/plugins/rasterpropmonitor.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>AirParkContinued. Version: 1.7.1.7</Text>
+      <FilePath>airpark/plugins/airparkcontinued.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>ProceduralFairings. Version: 6.6.0.0</Text>
+      <FilePath>proceduralfairings/plugins/proceduralfairings.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>ProceduralParts. Version: 2.5.9.0</Text>
+      <FilePath>proceduralparts/plugins/proceduralparts.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>ConformalDecals. Version: 0.2.14</Text>
+      <FilePath>conformaldecals/plugins/conformaldecals.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>KerBalloons. Version: 0.5.0.15</Text>
+      <FilePath>kerballoons/plugins/kerballoons.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>ModularFlightIntegrator. Version: 1.2.10.0</Text>
+      <FilePath>modularflightintegrator/modularflightintegrator.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>Kopernicus. Version: 1.12.205.0</Text>
+      <FilePath>kopernicus/plugins/kopernicus.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>Kopernicus.Parser. Version: 1.0.0.0</Text>
+      <FilePath>kopernicus/plugins/kopernicus.parser.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>Grass. Version: 0.0.0.0</Text>
+      <FilePath>parallax/grass.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>ParallaxOptimized. Version: 1.0.0.0</Text>
+      <FilePath>parallax/parallaxoptimized.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>ParallaxQualityLibrary. Version: 1.0.0.0</Text>
+      <FilePath>parallax/parallaxqualitylibrary.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>CustomBarnKit. Version: 1.1.22.0</Text>
+      <FilePath>custombarnkit/custombarnkit.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>Kronometer. Version: 1.12.0.2</Text>
+      <FilePath>kronometer/plugins/kronometer.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>BDArmory.Core. Version: 1.3.4.0</Text>
+      <FilePath>bdarmory/plugins/bdarmory.core.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>BDArmory. Version: 1.3.4.0</Text>
+      <FilePath>bdarmory/plugins/bdarmory.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>BDArmory.Events. Version: 1.0.0.0</Text>
+      <FilePath>bdarmory/plugins/bdarmory.events.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>BDArmory.Multiplayer. Version: 1.0.0.0</Text>
+      <FilePath>bdarmory/plugins/bdarmory.multiplayer.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>Firespitter. Version: 7.3.7660.26532</Text>
+      <FilePath>firespitter/plugins/firespitter.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>FreeIva. Version: 0.2.18.4</Text>
+      <FilePath>freeiva/plugins/freeiva.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>Reviva. Version: 1.0.0</Text>
+      <FilePath>reviva/reviva.dll</FilePath>
+      <Sha></Sha>
+    </DllFile>
+    <DllFile>
+      <Text>KSPWheel. Version: 0.0.0.0</Text>
+      <FilePath>kspwheel/plugin/kspwheel.dll</FilePath>
       <Sha></Sha>
     </DllFile>
     <DllFile>
       <Text>VesselMover. Version: 1.12.0.0</Text>
       <FilePath>vesselmover/plugins/vesselmover.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>VVDiscoDisplay. Version: 0.8.9</Text>
-      <FilePath>vesselview/plugins/vvdiscodisplay.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>VVPartSelector. Version: 0.8.9</Text>
-      <FilePath>vesselview/plugins/vvpartselector.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>VesselView. Version: 0.8.9</Text>
-      <FilePath>vesselview/plugins/vesselview.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>VesselViewRPM. Version: 0.8.9</Text>
-      <FilePath>vesselview/plugins/vesselviewrpm.dll</FilePath>
-      <Sha></Sha>
-    </DllFile>
-    <DllFile>
-      <Text>Waterfall. Version: 0.0.0.0</Text>
-      <FilePath>waterfall/plugins/waterfall.dll</FilePath>
       <Sha></Sha>
     </DllFile>
   </OptionalPlugins>
@@ -290,526 +410,9 @@
     <string>kerbalEVAfemaleFuture</string>
     <string>kerbalEVASlimSuit</string>
     <string>kerbalEVASlimSuitFemale</string>
-    <string>B9.Aero.Wing.Procedural.TypeA</string>
-    <string>B9.Aero.Wing.Procedural.TypeB</string>
-    <string>B9.Aero.Wing.Procedural.TypeC</string>
-    <string>Benjee10.MMSEV.chassis</string>
-    <string>Benjee10.MMSEV.grapple</string>
-    <string>Benjee10.MMSEV.headlight</string>
-    <string>Benjee10.MMSEV</string>
-    <string>Benjee10.MMSEV.monopropSled</string>
-    <string>Benjee10.MMSEV.wheelLinear</string>
-    <string>Benjee10.MMSEV.wheelMount</string>
-    <string>Benjee10.MMSEV.baseHDU</string>
-    <string>Benjee10.base.HDU.attic</string>
-    <string>Benjee10.base.HDU.base</string>
-    <string>Benjee10.MMSEV.baseHDU.hab</string>
-    <string>Benjee10.MMSEV.adapter.0-9375</string>
-    <string>Benjee10.MMSEV.crewTube0</string>
-    <string>Benjee10.MMSEV.crewTube1</string>
-    <string>Benjee10.MMSEV.crewTube2</string>
-    <string>Benjee10.MMSEV.baseDockLowProfile</string>
-    <string>Benjee10.MMSEV.endCapRound</string>
-    <string>Benjee10.MMSEV.baseGreenhouse</string>
-    <string>Benjee10.MMSEV.baseHabLong</string>
-    <string>Benjee10.MMSEV.baseHabShort</string>
-    <string>Benjee10.MMSEV.baseLab</string>
-    <string>Benjee10.MMSEV.baseLander</string>
-    <string>Benjee10.MMSEV.baseLifter</string>
-    <string>Benjee10.MMSEV.logisticslong</string>
-    <string>Benjee10.MMSEV.logisticsShort</string>
-    <string>Benjee10.MMSEV.baseMount1-875</string>
-    <string>Benjee10.MMSEV.baseNode1-25</string>
-    <string>Benjee10.MMSEV.baseNode.vertical</string>
-    <string>Benjee10.base.platform</string>
-    <string>Benjee10.MMSEV.baseRadiator</string>
-    <string>Benjee10.MMSEV.baseRailings</string>
-    <string>Benjee10.MMSEV.baseSolarArray</string>
-    <string>Benjee10.base.stairs</string>
-    <string>Benjee10.MMSEV.base.TNode1-25</string>
-    <string>Benjee10.MMSEV.baseTurbineBoom</string>
-    <string>Benjee10.MMSEV.baseTurbineBoomMount</string>
-    <string>Benjee10.MMSEV.baseTurbineGiant</string>
-    <string>Benjee10.MMSEV.baseTurbineHelicalLarge1</string>
-    <string>Benjee10.MMSEV.baseTurbineHelicalLarge2</string>
-    <string>Benjee10.MMSEV.baseTurbineHelicalSmall</string>
-    <string>Benjee10.MMSEV.baseTurbineHelicalTiny</string>
-    <string>Benjee10.MMSEV.baseTurbineHighDensity</string>
-    <string>Benjee10.MMSEV.baseTurbineLowDensity</string>
-    <string>Benjee10.MMSEV.baseTurbineMedDensity</string>
-    <string>Benjee10.MMSEV.baseTurbineMotor</string>
-    <string>B10.APASv2</string>
-    <string>B10.IDA</string>
-    <string>B10.NDS</string>
-    <string>B10.hybrid.female</string>
-    <string>B10.hybrid.male</string>
-    <string>ht2.CBM</string>
-    <string>ht2.CBM.active1</string>
-    <string>ht2.CBM.active2</string>
-    <string>benjee10.AJ10.v2</string>
-    <string>radiator-conformal-1</string>
-    <string>radiator-conformal-2</string>
-    <string>radiator-conformal-3</string>
-    <string>radiator-universal-1</string>
-    <string>radiator-universal-2</string>
-    <string>radiator-universal-3</string>
-    <string>radiator-fixed-1</string>
-    <string>radiator-fixed-2</string>
-    <string>radiator-fixed-3</string>
-    <string>radiator-fixed-4</string>
-    <string>radiator-microchannel-1</string>
-    <string>radiator-microchannel-2</string>
-    <string>radiator-microchannel-fixed-1</string>
-    <string>radiator-microchannel-fixed-2</string>
-    <string>radiator-surface-125-1</string>
-    <string>radiator-surface-25-1</string>
-    <string>radiator-surface-375-1</string>
-    <string>heat-exchanger-125-1</string>
-    <string>heat-exchanger-25-1</string>
-    <string>JSIPrimitiveExternalCamera.v2</string>
-    <string>JSIPrimitiveExternalCamera</string>
-    <string>Engineer7500</string>
-    <string>EngineerChip</string>
-    <string>mumech.MJ2.AR202</string>
-    <string>mumech.MJ2.AR202.features1</string>
-    <string>mumech.MJ2.AR202.features2</string>
-    <string>mumech.MJ2.AR202.features3</string>
-    <string>mumech.MJ2.AR202.features4</string>
-    <string>mumech.MJ2.Pod</string>
-    <string>adapter-125-0625-1</string>
-    <string>adapter-125-0625-2</string>
-    <string>adapter-125-0625-3</string>
-    <string>adapter-125-0625-4</string>
-    <string>adapter-25-125</string>
-    <string>adapter-25-multi-1</string>
-    <string>adapter-375-25-1</string>
-    <string>adapter-rad-0625</string>
-    <string>adapter-rad-125</string>
-    <string>docking-linear-1</string>
-    <string>docking-linear-2</string>
-    <string>truss-circular-01</string>
-    <string>truss-circular-02</string>
-    <string>truss-circular-03</string>
-    <string>truss-circular-04</string>
-    <string>truss-circular-adapter-01</string>
-    <string>truss-circular-adapter-02</string>
-    <string>truss-circular-docking-01</string>
-    <string>truss-hex-01</string>
-    <string>truss-hex-02</string>
-    <string>truss-hex-03</string>
-    <string>truss-hex-adapter-01</string>
-    <string>truss-micro-01</string>
-    <string>truss-micro-02</string>
-    <string>truss-micro-adapter-01</string>
-    <string>truss-octo-01</string>
-    <string>truss-octo-02</string>
-    <string>truss-octo-03</string>
-    <string>truss-octo-04</string>
-    <string>truss-octo-adapter-01</string>
-    <string>truss-octo-adapter-crew-01</string>
-    <string>truss-octo-angled-01</string>
-    <string>truss-octo-angled-crew-01</string>
-    <string>truss-octo-attach-01</string>
-    <string>truss-octo-crew-01</string>
-    <string>truss-octo-crew-02</string>
-    <string>truss-octo-crew-03</string>
-    <string>truss-octo-docking-125</string>
-    <string>truss-octo-docking-25</string>
-    <string>truss-octo-docking-octo</string>
-    <string>truss-octo-drone-01</string>
-    <string>truss-octo-hub-01</string>
-    <string>truss-octo-hub-crew-01</string>
-    <string>truss-spinal-01</string>
-    <string>truss-spinal-02</string>
-    <string>truss-spinal-03</string>
-    <string>truss-spinal-adapter-01</string>
-    <string>truss-spinal-adapter-02</string>
-    <string>truss-spinal-docking-01</string>
-    <string>battery-0625</string>
-    <string>battery-125</string>
-    <string>battery-25</string>
-    <string>battery-rad-125</string>
-    <string>capacitor-0625</string>
-    <string>capacitor-125</string>
-    <string>capacitor-25</string>
-    <string>capacitor-rad-0625-2</string>
-    <string>capacitor-rad-0625</string>
-    <string>reactor-0625</string>
-    <string>reactor-125</string>
-    <string>reactor-25-2</string>
-    <string>reactor-25</string>
-    <string>reactor-375-2</string>
-    <string>reactor-375</string>
-    <string>nuclearfuel-0625</string>
-    <string>nuclearfuel-125</string>
-    <string>nuclearfuel-25</string>
-    <string>rtg-0625</string>
-    <string>nuclear-recycler-25</string>
-    <string>nfex-antenna-deploy-wv3-1</string>
-    <string>nfex-antenna-feeder-direct-1</string>
-    <string>nfex-antenna-feeder-relay-1</string>
-    <string>nfex-antenna-phased-array-1</string>
-    <string>nfex-antenna-phased-array-2</string>
-    <string>nfex-antenna-phased-array-3</string>
-    <string>nfex-antenna-phased-single-1</string>
-    <string>nfex-antenna-phased-single-2</string>
-    <string>nfex-antenna-phased-single-3</string>
-    <string>nfex-antenna-reflector-giant-1</string>
-    <string>nfex-antenna-reflector-huge-1</string>
-    <string>nfex-antenna-reflector-large-1</string>
-    <string>nfex-antenna-reflector-side-1</string>
-    <string>nfex-antenna-reflector-side-2</string>
-    <string>nfex-antenna-reflector-side-3</string>
-    <string>nfex-antenna-relay-tdrs-1</string>
-    <string>nfex-antenna-relay-tdrs-2</string>
-    <string>nfex-antenna-relay-tiny-1</string>
-    <string>nfex-antenna-rover-1</string>
-    <string>nfex-antenna-rover-2</string>
-    <string>nfex-antenna-rover-3</string>
-    <string>nfex-antenna-static-mini-1</string>
-    <string>nfex-antenna-top-dish-1</string>
-    <string>nfex-antenna-top-dish-2</string>
-    <string>nfex-bus-adtp-1</string>
-    <string>nfex-bus-adtp-2</string>
-    <string>nfex-bus-chfr-1</string>
-    <string>nfex-bus-chfr-2</string>
-    <string>nfex-bus-cyl-1</string>
-    <string>nfex-bus-cyl-2</string>
-    <string>nfex-bus-dsk-1</string>
-    <string>nfex-bus-dsk-2</string>
-    <string>nfex-bus-hecs-1</string>
-    <string>nfex-bus-hecs-2</string>
-    <string>nfex-bus-hecs2-1</string>
-    <string>nfex-bus-hecs2-2</string>
-    <string>nfex-bus-okto-1</string>
-    <string>nfex-bus-okto-2</string>
-    <string>nfex-bus-plto-1</string>
-    <string>nfex-bus-plto-2</string>
-    <string>nfex-bus-qbe-1</string>
-    <string>nfex-bus-qbe-2</string>
-    <string>nfex-bus-rekt-1</string>
-    <string>nfex-bus-rekt-2</string>
-    <string>nfex-bus-rnd-1</string>
-    <string>nfex-bus-rnd-2</string>
-    <string>nfex-bus-sqr-1</string>
-    <string>nfex-bus-sqr-2</string>
-    <string>nfex-bus-stp-1</string>
-    <string>nfex-bus-stp-2</string>
-    <string>nfex-reaction-wheel-mini-1</string>
-    <string>nfex-battery-mini-1</string>
-    <string>nfex-fueltank-radial-small-1</string>
-    <string>nfex-fueltank-radial-small-2</string>
-    <string>nfex-fueltank-radial-small-3</string>
-    <string>nfex-fueltank-radial-tiny-1</string>
-    <string>nfex-fueltank-stack-medium-1</string>
-    <string>nfex-fueltank-stack-medium-2</string>
-    <string>nfex-fueltank-stack-medium-3</string>
-    <string>nfex-fueltank-stack-tiny-1</string>
-    <string>nfex-landing-leg-nano-1</string>
-    <string>nfex-probe-chfr-1</string>
-    <string>nfex-probe-cyl-1</string>
-    <string>nfex-probe-dsk-1</string>
-    <string>nfex-probe-plto-1</string>
-    <string>nfex-probe-rkt-1</string>
-    <string>nfex-probe-rnd-1</string>
-    <string>nfex-probe-sqr-1</string>
-    <string>nfex-probe-stp-1</string>
-    <string>nflv-drone-core-5-1</string>
-    <string>nflv-drone-core-75-1</string>
-    <string>nflv-decoupler-5-1</string>
-    <string>nflv-decoupler-75-1</string>
-    <string>nflv-decoupler-radial-1</string>
-    <string>nflv-docking-5-1</string>
-    <string>nflv-separator-5-1</string>
-    <string>nflv-separator-75-1</string>
-    <string>nflv-battery-stack-5-1</string>
-    <string>nflv-battery-stack-75-1</string>
-    <string>nflv-engine-ar1-1</string>
-    <string>nflv-engine-ar1c-1</string>
-    <string>nflv-engine-m1d-1</string>
-    <string>nflv-engine-m1d-vac-1</string>
-    <string>nflv-engine-rd701-1</string>
-    <string>nflv-engine-rd704-1</string>
-    <string>nflv-engine-rs84-1</string>
-    <string>nflv-engine-rutherford-1</string>
-    <string>nflv-engine-rutherford-vac-1</string>
-    <string>nflv-engine-stbe-kero-1</string>
-    <string>nflv-engine-tr107-1</string>
-    <string>nflv-fueltank-5-1</string>
-    <string>nflv-fueltank-5-2</string>
-    <string>nflv-fueltank-5-3</string>
-    <string>nflv-fueltank-5-4</string>
-    <string>nflv-fueltank-75-1</string>
-    <string>nflv-fueltank-75-2</string>
-    <string>nflv-fueltank-75-3</string>
-    <string>nflv-fueltank-75-4</string>
-    <string>nflv-fueltank-75-5</string>
-    <string>nflv-fueltank-adapter-5-375-1</string>
-    <string>nflv-fueltank-adapter-5-375-2</string>
-    <string>nflv-fueltank-adapter-5-375-3</string>
-    <string>nflv-nflv-fueltank-adapter-5-375-4</string>
-    <string>nflv-fueltank-adapter-75-5-1</string>
-    <string>nflv-fueltank-adapter-75-5-2</string>
-    <string>nflv-fueltank-nosecone-5-1</string>
-    <string>nflv-fueltank-nosecone-75-1</string>
-    <string>nflv-fueltank-round-5-1</string>
-    <string>nflv-fueltank-round-75-1</string>
-    <string>nflv-skeletal-adapter-5-375-1</string>
-    <string>nflv-skeletal-adapter-75-5-1</string>
-    <string>nflv-cargo-5-1</string>
-    <string>nflv-cargo-5-2</string>
-    <string>nflv-cargo-5-3</string>
-    <string>nflv-cargo-5-4</string>
-    <string>nflv-cargo-75-1</string>
-    <string>nflv-cargo-75-2</string>
-    <string>nflv-cargo-75-3</string>
-    <string>nflv-cargo-75-4</string>
-    <string>nflv-cargo-nose-5-1</string>
-    <string>nflv-cargo-nose-75-1</string>
-    <string>nflv-fairing-5-1</string>
-    <string>nflv-fairing-75-1</string>
-    <string>nflv-service-bay-5-1</string>
-    <string>nflv-service-bay-75-1</string>
-    <string>nflv-rcs-aero-heavy-1</string>
-    <string>nflv-rcs-aero-heavy-2</string>
-    <string>nflv-rcs-heavy-1x-1</string>
-    <string>nflv-rcs-heavy-1x-2</string>
-    <string>nflv-rcs-heavy-4x-1</string>
-    <string>nflv-rcs-heavy-4x-2</string>
-    <string>nflv-rcs-integrated-3x-1</string>
-    <string>nflv-rcs-integrated-4x-1</string>
-    <string>nflv-rcs-integrated-4x-2</string>
-    <string>nflv-cargo-tube-5-1</string>
-    <string>nflv-cargo-tube-75-1</string>
-    <string>nflv-cluster-mount-lower-5-1</string>
-    <string>nflv-cluster-mount-lower-5-2</string>
-    <string>nflv-cluster-mount-lower-5-3</string>
-    <string>nflv-cluster-mount-lower-5-4</string>
-    <string>nflv-cluster-mount-lower-75-1</string>
-    <string>nflv-cluster-mount-lower-75-2</string>
-    <string>nflv-cluster-mount-upper-5-1</string>
-    <string>nflv-cluster-mount-upper-5-2</string>
-    <string>nflv-cluster-mount-upper-5-3</string>
-    <string>nflv-cluster-mount-upper-75-1</string>
-    <string>nflv-cluster-mount-upper-75-2</string>
-    <string>argon-0625-1</string>
-    <string>argon-0625-2</string>
-    <string>argon-0625-3</string>
-    <string>argon-125-1</string>
-    <string>argon-125-2</string>
-    <string>argon-125-3</string>
-    <string>argon-25-1</string>
-    <string>argon-25-2</string>
-    <string>argon-25-3</string>
-    <string>argon-radial-0625-1</string>
-    <string>argon-radial-125-1</string>
-    <string>ionArgon-0625-2</string>
-    <string>ionArgon-0625-3</string>
-    <string>ionArgon-0625</string>
-    <string>ionXenon-0625-2</string>
-    <string>ionXenon-0625-3</string>
-    <string>ionXenon-0625</string>
-    <string>mpdt-0625</string>
-    <string>mpdt-125</string>
-    <string>mpdt-25</string>
-    <string>pit-0625</string>
-    <string>pit-125</string>
-    <string>pit-25</string>
-    <string>vasimr-0625</string>
-    <string>vasimr-125</string>
-    <string>vasimr-25</string>
-    <string>lithium-0625-1</string>
-    <string>lithium-0625-2</string>
-    <string>lithium-0625-3</string>
-    <string>lithium-125-1</string>
-    <string>lithium-125-2</string>
-    <string>lithium-125-3</string>
-    <string>lithium-25-1</string>
-    <string>lithium-25-2</string>
-    <string>lithium-25-3</string>
-    <string>lithium-radial-0625-1</string>
-    <string>lithium-radial-125-1</string>
-    <string>rcsblock-gridded-01</string>
-    <string>rcsblock-hall-01</string>
-    <string>rcsblock-mpdt-quad-01</string>
-    <string>rcsblock-mpdt-quint-01</string>
-    <string>rcsblock-mpdt-single-01</string>
-    <string>rcsblock-mpdt-triple-01</string>
-    <string>rcsblock-pulsedplasma-01</string>
-    <string>cryoseperator-25</string>
-    <string>gasspectrometer-01</string>
-    <string>xenon-125-1</string>
-    <string>xenon-125-2</string>
-    <string>xenon-125-3</string>
-    <string>xenon-25-1</string>
-    <string>xenon-25-2</string>
-    <string>xenon-25-3</string>
-    <string>xenon-radial-125-1</string>
-    <string>nfs-panel-deploying-advanced-1x1-ikonos-1</string>
-    <string>nfs-panel-deploying-advanced-1x1-messenger-1</string>
-    <string>nfs-panel-deploying-advanced-1x2-mro-1</string>
-    <string>nfs-panel-deploying-advanced-1x2-wv4-1</string>
-    <string>nfs-panel-deploying-advanced-1x3-orion-1</string>
-    <string>nfs-panel-deploying-advanced-1x3-orion-2</string>
-    <string>nfs-panel-deploying-advanced-1x4-dragon-1</string>
-    <string>nfs-panel-deploying-advanced-1x4-dragon-2</string>
-    <string>nfs-panel-deploying-advanced-1x5-dawn-1</string>
-    <string>nfs-panel-deploying-advanced-1x5-goes-1</string>
-    <string>nfs-panel-deploying-advanced-2x20-hub-1</string>
-    <string>nfs-panel-deploying-advanced-2x6x6-lab-1</string>
-    <string>nfs-panel-deploying-advanced-3x1-hayabusa-1</string>
-    <string>nfs-panel-deploying-advanced-3x1-tdrss-1</string>
-    <string>nfs-panel-deploying-advanced-3x1-wv3-1</string>
-    <string>nfs-panel-deploying-blanket-arm-1</string>
-    <string>nfs-panel-deploying-blanket-bfs-1</string>
-    <string>nfs-panel-deploying-blanket-copernicus-1</string>
-    <string>nfs-panel-deploying-blanket-drm-1</string>
-    <string>nfs-panel-deploying-blanket-dsg-1</string>
-    <string>nfs-panel-deploying-blanket-dst-1</string>
-    <string>nfs-panel-deploying-blanket-nautilus-1</string>
-    <string>nfs-panel-deploying-blanket-orion-1</string>
-    <string>nfs-panel-deploying-blanket-starship-1</string>
-    <string>nfs-panel-deploying-concentrator-1x3x1-juice-1</string>
-    <string>nfs-panel-deploying-concentrator-1x4-juno-1</string>
-    <string>nfs-panel-deploying-curved-25-1</string>
-    <string>nfs-panel-deploying-curved-375-1</string>
-    <string>nfs-panel-static-truss-1</string>
-    <string>nfs-panel-static-truss-2</string>
-    <string>nfs-panel-static-truss-3</string>
-    <string>nfs-panel-static-curved-25-1</string>
-    <string>nfs-panel-static-curved-375-1</string>
-    <string>restock-nosecone-0625-1</string>
-    <string>restock-heatshield-1875-1</string>
-    <string>restock-nosecone-1875-1</string>
-    <string>restock-nosecone-1875-2</string>
-    <string>restock-nosecone-5-1</string>
-    <string>restock-drone-core-0625-1</string>
-    <string>restock-pod-sphere-1</string>
-    <string>restock-pod-sphere-2</string>
-    <string>restock-pod-sphere-3</string>
-    <string>restock-drone-core-1875-1</string>
-    <string>restock-mk2-pod</string>
-    <string>restock-drone-core-375-1</string>
-    <string>restock-antenna-stack-2</string>
-    <string>restock-antenna-stack-3</string>
-    <string>restock-relay-radial-2</string>
-    <string>restock-relay-radial-2.v2</string>
-    <string>restock-reactionwheel-1875-1</string>
-    <string>restock-reactionwheel-radial-1</string>
-    <string>restock-rcs-block-dual-1</string>
-    <string>restock-rcs-block-dual-mini-1</string>
-    <string>restock-rcs-block-multi-2</string>
-    <string>restock-rcs-block-multi-mini-2</string>
-    <string>restock-rcs-block-quad-angled-1</string>
-    <string>restock-rcs-block-quad-angled-mini-1</string>
-    <string>restock-rcs-block-quad-mini-1</string>
-    <string>restock-rcs-block-quint-1</string>
-    <string>restock-rcs-block-qunit-mini-1</string>
-    <string>restock-rcs-block-triple-angled-1</string>
-    <string>restock-rcs-block-triple-angled-mini-1</string>
-    <string>restock-rcs-single-mini-1</string>
-    <string>restock-airlock-1</string>
-    <string>restock-claw-625-1</string>
-    <string>restock-engineplate-125-1</string>
-    <string>restock-engineplate-125-2</string>
-    <string>restock-decoupler-1875-1</string>
-    <string>restock-decoupler-1875-truss-1</string>
-    <string>restock-engineplate-1875-1</string>
-    <string>restock-separator-1875-1</string>
-    <string>restock-engineplate-25-1</string>
-    <string>restock-docking-375-1</string>
-    <string>restock-engineplate-375-1</string>
-    <string>restock-decoupler-5-1</string>
-    <string>restock-engineplate-5-1</string>
-    <string>restock-separator-5-1</string>
-    <string>restock-decoupler-radial-tiny-1</string>
-    <string>restock-battery-1875-1</string>
-    <string>restock-battery-375-1</string>
-    <string>restock-apu-radial-1</string>
-    <string>restock-engine-les-2</string>
-    <string>restock-engine-torch</string>
-    <string>restock-srb-mallet-1</string>
-    <string>restock-srb-striker-1</string>
-    <string>restock-engine-125-pug</string>
-    <string>restock-engine-125-valiant</string>
-    <string>restock-engine-caravel-1</string>
-    <string>restock-engine-galleon-1</string>
-    <string>restock-engine-schnauzer-1</string>
-    <string>restock-engine-ursa-1</string>
-    <string>restock-srb-anvil-1</string>
-    <string>restock-srb-castor-1</string>
-    <string>restock-engine-boar</string>
-    <string>restock-engine-cherenkov</string>
-    <string>restock-engine-375-corgi</string>
-    <string>restock-engine-panda-1</string>
-    <string>restock-fueltank-sphere-0625-1</string>
-    <string>restock-fuel-tank-0625-1</string>
-    <string>restock-fuel-tank-0625-2</string>
-    <string>restock-fuel-tank-0625-3</string>
-    <string>restock-fuel-tank-0625-5</string>
-    <string>restock-fuel-tank-probe-1</string>
-    <string>restock-fuel-tank-probe-2</string>
-    <string>restock-fueltank-sphere-125-1</string>
-    <string>restock-fuel-tank-rcs-1875-1</string>
-    <string>restock-fueltank-sphere-1875-1</string>
-    <string>restock-fueltank-1875-1</string>
-    <string>restock-fueltank-1875-2</string>
-    <string>restock-fueltank-1875-3</string>
-    <string>restock-fueltank-1875-4</string>
-    <string>restock-fueltank-1875-soyuz-1</string>
-    <string>restock-fueltank-adapter-1875-0625-1</string>
-    <string>restock-fueltank-adapter-1875-125-1</string>
-    <string>restock-fueltank-adapter-1875-125-2</string>
-    <string>restock-fueltank-adapter-25-1875-1</string>
-    <string>restock-fueltank-sphere-25-1</string>
-    <string>restock-fuel-tank-375-4</string>
-    <string>restock-fuel-tank-rcs-375-1</string>
-    <string>restock-fueltank-sphere-375-1</string>
-    <string>restock-nosecone-375-1</string>
-    <string>restock-fueltank-5-1</string>
-    <string>restock-fueltank-5-2</string>
-    <string>restock-fueltank-5-3</string>
-    <string>restock-fueltank-5-4</string>
-    <string>restock-fueltank-adapter-375-5-1</string>
-    <string>restock-fueltank-saturn-engine-1</string>
-    <string>restock-fuel-tank-rcs-radial-tiny-1</string>
-    <string>restock-wheel-1-T</string>
-    <string>restock-wheel-4</string>
-    <string>restock-fairing-base-0625-1</string>
-    <string>restock-service-module-125-625-1</string>
-    <string>restock-fairing-base-1875-1</string>
-    <string>restock-service-bay-1875-1</string>
-    <string>restock-service-module-1875-1</string>
-    <string>restock-fairing-base-5-1</string>
-    <string>restock-oretank-1875-1</string>
-    <string>restock-oretank-375-1</string>
-    <string>restock-goocanister-625-1</string>
-    <string>restock-materialbay-radial-1</string>
-    <string>restock-sciencebox-stack-1</string>
-    <string>restock-structural-tube-125-1</string>
-    <string>restock-adapter-1875-125-1</string>
-    <string>restock-adapter-1875-25-1</string>
-    <string>restock-node-1875-1</string>
-    <string>restock-structural-tube-1875-1</string>
-    <string>restock-structural-tube-25-1</string>
-    <string>restock-adapter-hollow-25-375-1</string>
-    <string>restock-adapter-skeletal-25-375-1</string>
-    <string>restock-structural-tube-375-1</string>
-    <string>restock-structural-tube-5-1</string>
-    <string>restock-node-625-1</string>
-    <string>restock-truss-3</string>
-    <string>restock-truss-adapter-0625-1</string>
-    <string>restock-truss-hub-1</string>
-    <string>restock-ladder-static-2</string>
-    <string>restock-ladder-static-3</string>
-    <string>HeatShield0</string>
-    <string>HeatShield1</string>
-    <string>HeatShield2</string>
-    <string>HeatShield3</string>
-    <string>InflatableHeatShield</string>
     <string>noseCone</string>
-    <string>airScoop</string>
     <string>airbrake1</string>
+    <string>airScoop</string>
     <string>airlinerCtrlSrf</string>
     <string>airlinerMainWing</string>
     <string>airlinerTailFin</string>
@@ -820,9 +423,9 @@
     <string>basicFin</string>
     <string>CircularIntake</string>
     <string>shockConeIntake</string>
+    <string>avionicsNoseCone</string>
     <string>pointyNoseConeA</string>
     <string>pointyNoseConeB</string>
-    <string>avionicsNoseCone</string>
     <string>noseConeAdapter</string>
     <string>rocketNoseCone.v2</string>
     <string>rocketNoseCone.v3</string>
@@ -833,6 +436,11 @@
     <string>fairingSize1</string>
     <string>fairingSize2</string>
     <string>fairingSize3</string>
+    <string>HeatShield0</string>
+    <string>HeatShield1</string>
+    <string>HeatShield2</string>
+    <string>HeatShield3</string>
+    <string>InflatableHeatShield</string>
     <string>IntakeRadialLong</string>
     <string>miniIntake</string>
     <string>ramAirIntake</string>
@@ -873,15 +481,13 @@
     <string>evaScienceKit</string>
     <string>CargoStorageUnit</string>
     <string>ConformalStorageUnit</string>
-    <string>mk1-3pod</string>
-    <string>MpoProbe</string>
-    <string>MtmStage</string>
     <string>asasmodule1-2</string>
     <string>cupola</string>
     <string>seatExternalCmd</string>
     <string>crewCabin</string>
     <string>advSasModule</string>
     <string>sasModule</string>
+    <string>mk1-3pod</string>
     <string>Mark1Cockpit</string>
     <string>MK1CrewCabin</string>
     <string>Mark2Cockpit</string>
@@ -893,6 +499,8 @@
     <string>mk2LanderCabin</string>
     <string>mk2LanderCabin.v2</string>
     <string>mk3Cockpit.Shuttle</string>
+    <string>MpoProbe</string>
+    <string>MtmStage</string>
     <string>probeCoreCube</string>
     <string>probeCoreHex</string>
     <string>probeCoreHex.v2</string>
@@ -921,24 +529,14 @@
     <string>solarPanels4</string>
     <string>solarPanels1</string>
     <string>solarPanels3</string>
-    <string>rtg</string>
     <string>largeSolarPanel</string>
     <string>solarPanels5</string>
+    <string>rtg</string>
     <string>batteryPack</string>
     <string>batteryBank</string>
     <string>batteryBankMini</string>
     <string>ksp.r.largeBatteryPack</string>
     <string>batteryBankLarge</string>
-    <string>MassiveBooster</string>
-    <string>omsEngine</string>
-    <string>solidBooster.v2</string>
-    <string>solidBooster.sm.v2</string>
-    <string>Size2LFB</string>
-    <string>Size2LFB.v2</string>
-    <string>Size3AdvancedEngine</string>
-    <string>Size3EngineCluster</string>
-    <string>Shrimp</string>
-    <string>Mite</string>
     <string>ionEngine</string>
     <string>turboJet</string>
     <string>JetEngine</string>
@@ -959,33 +557,24 @@
     <string>liquidEngineMainsail.v2</string>
     <string>radialLiquidEngine1-2</string>
     <string>liquidEngine2-2.v2</string>
-    <string>SSME</string>
     <string>engineLargeSkipper.v2</string>
+    <string>SSME</string>
+    <string>MassiveBooster</string>
     <string>miniJetEngine</string>
+    <string>omsEngine</string>
     <string>RAPIER</string>
+    <string>solidBooster.v2</string>
+    <string>solidBooster.sm.v2</string>
+    <string>Size2LFB</string>
+    <string>Size2LFB.v2</string>
+    <string>Size3AdvancedEngine</string>
+    <string>Size3EngineCluster</string>
     <string>solidBooster1-1</string>
     <string>Thoroughbred</string>
     <string>Clydesdale</string>
     <string>sepMotor1</string>
-    <string>externalTankCapsule</string>
-    <string>externalTankRound</string>
-    <string>externalTankToroid</string>
-    <string>RCSTank1-2</string>
-    <string>rcsTankMini</string>
-    <string>RCSFuelTank</string>
-    <string>radialRCSTank</string>
-    <string>rcsTankRadialLong</string>
-    <string>Rockomax16.BW</string>
-    <string>Rockomax32.BW</string>
-    <string>Rockomax64.BW</string>
-    <string>Rockomax8BW</string>
-    <string>fuelTankSmallFlat</string>
-    <string>fuelTankSmall</string>
-    <string>fuelTank</string>
-    <string>fuelTank.long</string>
-    <string>Size3LargeTank</string>
-    <string>Size3MediumTank</string>
-    <string>Size3SmallTank</string>
+    <string>Shrimp</string>
+    <string>Mite</string>
     <string>adapterMk3-Mk2</string>
     <string>adapterEngines</string>
     <string>adapterMk3-Size2</string>
@@ -995,6 +584,9 @@
     <string>adapterSize2-Size1Slant</string>
     <string>adapterSize3-Mk3</string>
     <string>ReleaseValve</string>
+    <string>externalTankCapsule</string>
+    <string>externalTankRound</string>
+    <string>externalTankToroid</string>
     <string>miniFuelTank</string>
     <string>miniFuselage</string>
     <string>mk2.1m.Bicoupler</string>
@@ -1013,6 +605,22 @@
     <string>mk3FuselageLF.25</string>
     <string>mk3FuselageLF.50</string>
     <string>mk3FuselageMONO</string>
+    <string>RCSTank1-2</string>
+    <string>rcsTankMini</string>
+    <string>RCSFuelTank</string>
+    <string>radialRCSTank</string>
+    <string>rcsTankRadialLong</string>
+    <string>Rockomax16.BW</string>
+    <string>Rockomax32.BW</string>
+    <string>Rockomax64.BW</string>
+    <string>Rockomax8BW</string>
+    <string>fuelTankSmallFlat</string>
+    <string>fuelTankSmall</string>
+    <string>fuelTank</string>
+    <string>fuelTank.long</string>
+    <string>Size3LargeTank</string>
+    <string>Size3MediumTank</string>
+    <string>Size3SmallTank</string>
     <string>xenonTank</string>
     <string>xenonTankLarge</string>
     <string>xenonTankRadial</string>
@@ -1046,12 +654,12 @@
     <string>sensorThermometer</string>
     <string>adapterSmallMiniShort</string>
     <string>adapterSmallMiniTall</string>
-    <string>Size3To2Adapter.v2</string>
     <string>radialEngineBody</string>
     <string>nacelleBody</string>
     <string>MK1Fuselage</string>
     <string>MK1IntakeFuselage</string>
     <string>Mk1FuselageStructural</string>
+    <string>Size3To2Adapter.v2</string>
     <string>adapterLargeSmallBi</string>
     <string>adapterLargeSmallQuad</string>
     <string>adapterLargeSmallTri</string>
@@ -1075,39 +683,28 @@
     <string>radPanelEdge</string>
     <string>radPanelLg</string>
     <string>radPanelSm</string>
-    <string>SurfAntenna</string>
-    <string>HighGainAntenna5</string>
-    <string>HighGainAntenna5.v2</string>
-    <string>fireworksLauncherBig</string>
-    <string>fireworksLauncherSmall</string>
-    <string>GrapplingDevice</string>
-    <string>domeLight1</string>
-    <string>groundLight1</string>
-    <string>groundLight2</string>
-    <string>navLight1</string>
-    <string>spotLight3</string>
-    <string>stripLight1</string>
-    <string>RelayAntenna100</string>
-    <string>RelayAntenna5</string>
-    <string>RelayAntenna50</string>
-    <string>ServiceBay.125.v2</string>
-    <string>ServiceBay.250.v2</string>
     <string>commDish</string>
     <string>mediumDishAntenna</string>
     <string>longAntenna</string>
     <string>radialDecoupler1-2</string>
     <string>radialDecoupler</string>
     <string>radialDecoupler2</string>
+    <string>SurfAntenna</string>
+    <string>HighGainAntenna5</string>
+    <string>HighGainAntenna5.v2</string>
     <string>dockingPort2</string>
     <string>dockingPortLateral</string>
     <string>dockingPort3</string>
     <string>dockingPort1</string>
     <string>dockingPortLarge</string>
+    <string>fireworksLauncherBig</string>
+    <string>fireworksLauncherSmall</string>
     <string>flagPartFlat</string>
     <string>flagPartSize0</string>
     <string>flagPartSize1</string>
     <string>flagPartSize2</string>
     <string>flagPartSize3</string>
+    <string>GrapplingDevice</string>
     <string>ladder1</string>
     <string>telescopicLadder</string>
     <string>telescopicLadderBay</string>
@@ -1116,6 +713,12 @@
     <string>miniLandingLeg</string>
     <string>launchClamp1</string>
     <string>LaunchEscapeSystem</string>
+    <string>domeLight1</string>
+    <string>groundLight1</string>
+    <string>groundLight2</string>
+    <string>navLight1</string>
+    <string>spotLight3</string>
+    <string>stripLight1</string>
     <string>linearRcs</string>
     <string>vernierEngine</string>
     <string>mk2CargoBayL</string>
@@ -1132,11 +735,16 @@
     <string>parachuteRadial</string>
     <string>parachuteDrogue</string>
     <string>stackPoint1</string>
-    <string>RCSblock.01.small</string>
     <string>RCSBlock.v2</string>
+    <string>RCSblock.01.small</string>
     <string>RCSLinearSmall</string>
+    <string>RelayAntenna100</string>
+    <string>RelayAntenna5</string>
+    <string>RelayAntenna50</string>
     <string>largeAdapter</string>
     <string>largeAdapter2</string>
+    <string>ServiceBay.125.v2</string>
+    <string>ServiceBay.250.v2</string>
     <string>smallClaw</string>
     <string>spotLight1</string>
     <string>spotLight1.v2</string>
@@ -1194,11 +802,11 @@
     <string>Size4.Tank.03</string>
     <string>Size4.Tank.04</string>
     <string>roverWheelM1-F</string>
-    <string>ServiceModule18</string>
-    <string>ServiceModule25</string>
-    <string>Size1to0ServiceModule</string>
     <string>fairingSize1p5</string>
     <string>fairingSize4</string>
+    <string>Size1to0ServiceModule</string>
+    <string>ServiceModule18</string>
+    <string>ServiceModule25</string>
     <string>kv1Pod</string>
     <string>kv2Pod</string>
     <string>kv3Pod</string>
@@ -1246,8 +854,6 @@
     <string>smallFanBlade</string>
     <string>smallHeliBlade</string>
     <string>smallPropeller</string>
-    <string>RotorEngine.02</string>
-    <string>RotorEngine.03</string>
     <string>hinge.01</string>
     <string>hinge.01.s</string>
     <string>hinge.03</string>
@@ -1257,16 +863,18 @@
     <string>piston.02</string>
     <string>piston.03</string>
     <string>piston.04</string>
-    <string>rotoServo.00</string>
-    <string>rotoServo.02</string>
-    <string>rotoServo.03</string>
-    <string>rotoServo.04</string>
+    <string>RotorEngine.02</string>
+    <string>RotorEngine.03</string>
     <string>rotor.01</string>
     <string>rotor.01s</string>
     <string>rotor.02</string>
     <string>rotor.02s</string>
     <string>rotor.03</string>
     <string>rotor.03s</string>
+    <string>rotoServo.00</string>
+    <string>rotoServo.02</string>
+    <string>rotoServo.03</string>
+    <string>rotoServo.04</string>
     <string>controller1000</string>
     <string>RobotArmScanner.S1</string>
     <string>RobotArmScanner.S2</string>
@@ -1276,120 +884,557 @@
     <string>mGripPad</string>
     <string>sGripPad</string>
     <string>sGripStrip</string>
-    <string>sspx-cargo-container-25-1</string>
-    <string>sspx-cargo-container-25-2</string>
-    <string>sspx-cargo-container-25-3</string>
-    <string>sspx-cargo-container-375-1</string>
-    <string>sspx-cargo-container-375-2</string>
-    <string>sspx-cargo-container-375-3</string>
-    <string>sspx-cargo-container-radial-huge-1</string>
-    <string>sspx-cargo-container-radial-huge-2</string>
-    <string>sspx-cargo-container-radial-medium-1</string>
-    <string>sspx-cargo-container-radial-medium-2</string>
-    <string>sspx-cargo-container-radial-medium-3</string>
-    <string>sspx-cargo-container-radial-small-1</string>
-    <string>sspx-cargo-container-radial-small-2</string>
-    <string>sspx-cargo-container-radial-small-3</string>
-    <string>sspx-inflatable-centrifuge-125-1</string>
-    <string>sspx-inflatable-centrifuge-125-2</string>
-    <string>sspx-inflatable-hab-125-1</string>
-    <string>sspx-inflatable-hab-125-2</string>
-    <string>sspx-inflatable-hab-125-3</string>
-    <string>sspx-inflatable-centrifuge-25-1</string>
-    <string>sspx-inflatable-hab-25-1</string>
-    <string>sspx-inflatable-hab-25-2</string>
-    <string>sspx-expandable-centrifuge-375-1</string>
-    <string>sspx-expandable-centrifuge-375-2</string>
-    <string>sspx-expandable-centrifuge-5-1</string>
-    <string>sspx-adjusting-base-125-1</string>
-    <string>sspx-adjusting-base-1875-1</string>
-    <string>sspx-adjusting-base-25-1</string>
-    <string>sspx-adjusting-base-375-1</string>
-    <string>sspx-adjusting-base-5-1</string>
-    <string>sspx-adjusting-base-cradle-125-1</string>
-    <string>sspx-adjusting-base-cradle-1875-1</string>
-    <string>sspx-adjusting-base-cradle-25-1</string>
-    <string>sspx-adjusting-base-cradle-375-1</string>
-    <string>sspx-adjusting-base-cradle-5-1</string>
-    <string>sspx-adjusting-stairs-1</string>
-    <string>sspx-extendable-tube-125-1</string>
-    <string>sspx-extendable-tube-25-1</string>
-    <string>sspx-adapter-0625-125-1</string>
-    <string>sspx-airlock-125-1</string>
-    <string>sspx-attach-125-1</string>
-    <string>sspx-cargo-125-1</string>
-    <string>sspx-core-125-1</string>
-    <string>sspx-cupola-125-1</string>
-    <string>sspx-docking-125-1</string>
-    <string>sspx-habitation-125-1</string>
-    <string>sspx-hub-125-1</string>
-    <string>sspx-tube-125-1</string>
-    <string>sspx-tube-125-2</string>
-    <string>sspx-tube-125-3</string>
-    <string>sspx-utility-125-1</string>
-    <string>sspx-adapter-1875-0625-1</string>
-    <string>sspx-adapter-1875-125-1</string>
-    <string>sspx-adapter-1875-125-2</string>
-    <string>sspx-adapter-25-1875-1</string>
-    <string>sspx-attach-1875-1</string>
-    <string>sspx-core-1875-1</string>
-    <string>sspx-cupola-1875-1</string>
-    <string>sspx-habitation-1875-1</string>
-    <string>sspx-habitation-1875-2</string>
-    <string>sspx-hub-1875-1</string>
-    <string>sspx-science-1875-1</string>
-    <string>sspx-tube-1875-1</string>
-    <string>sspx-tube-1875-2</string>
-    <string>sspx-tube-1875-3</string>
-    <string>sspx-tube-1875-angled-1</string>
-    <string>sspx-utility-1875-1</string>
-    <string>sspx-adapter-125-25-1</string>
-    <string>sspx-adapter-125-25-2</string>
-    <string>sspx-airlock-25-1</string>
-    <string>sspx-attach-25-1</string>
-    <string>sspx-cargo-25-1</string>
-    <string>sspx-cargo-25-2</string>
-    <string>sspx-core-25-1</string>
-    <string>sspx-greenhouse-25-1</string>
-    <string>sspx-habitation-25-1</string>
-    <string>sspx-hub-25-1</string>
-    <string>sspx-observation-25-1</string>
-    <string>sspx-tube-25-1</string>
-    <string>sspx-tube-25-2</string>
-    <string>sspx-tube-25-3</string>
-    <string>sspx-adapter-25-375-1</string>
-    <string>sspx-adapter-25-375-2</string>
-    <string>sspx-aquaculture-375-1</string>
-    <string>sspx-attach-375-1</string>
-    <string>sspx-core-375-1</string>
-    <string>sspx-cupola-375-1</string>
-    <string>sspx-greenhouse-375-1</string>
-    <string>sspx-habitation-375-1</string>
-    <string>sspx-habitation-375-2</string>
-    <string>sspx-habitation-375-3</string>
-    <string>sspx-lab-375-1</string>
-    <string>sspx-tube-375-1</string>
-    <string>sspx-tube-375-2</string>
-    <string>sspx-tube-375-3</string>
-    <string>sspx-adapter-375-5-1</string>
-    <string>sspx-adapter-375-5-2</string>
-    <string>sspx-core-5-1</string>
-    <string>sspx-cupola-greenhouse-125-1</string>
-    <string>sspx-cupola-telescope-125-1</string>
-    <string>sspx-dome-5-1</string>
-    <string>sspx-dome-cupola-5-1</string>
-    <string>sspx-dome-greenhouse-5-1</string>
-    <string>sspx-dome-habitation-5-1</string>
-    <string>sspx-greenhouse-5-1</string>
-    <string>sspx-habitation-5-1</string>
-    <string>sspx-habitation-5-2</string>
-    <string>sspx-lab-5-1</string>
-    <string>sspx-lab-pallet-1</string>
-    <string>sspx-lab-pallet-2</string>
-    <string>sspx-logistics-5-1</string>
-    <string>sspx-logistics-5-2</string>
+    <string>battery-125</string>
+    <string>battery-25</string>
+    <string>battery-0625</string>
+    <string>battery-rad-125</string>
+    <string>capacitor-rad-0625</string>
+    <string>capacitor-0625</string>
+    <string>capacitor-25</string>
+    <string>capacitor-rad-0625-2</string>
+    <string>capacitor-125</string>
+    <string>reactor-125</string>
+    <string>reactor-0625</string>
+    <string>reactor-375-2</string>
+    <string>reactor-375</string>
+    <string>reactor-25</string>
+    <string>reactor-25-2</string>
+    <string>nuclearfuel-125</string>
+    <string>nuclearfuel-25</string>
+    <string>nuclearfuel-0625</string>
+    <string>rtg-0625</string>
+    <string>nuclear-recycler-25</string>
+    <string>B9.Aero.Wing.Procedural.TypeA</string>
+    <string>B9.Aero.Wing.Procedural.TypeB</string>
+    <string>B9.Aero.Wing.Procedural.TypeC</string>
+    <string>wbiSampleArm</string>
+    <string>wbiSampleCrane</string>
+    <string>mumech.MJ2.Pod</string>
+    <string>mumech.MJ2.AR202</string>
+    <string>mumech.MJ2.AR202.features1</string>
+    <string>mumech.MJ2.AR202.features2</string>
+    <string>mumech.MJ2.AR202.features3</string>
+    <string>mumech.MJ2.AR202.features4</string>
+    <string>mk4adapter-2</string>
+    <string>mk4tail-2</string>
+    <string>mk4cargotail-1</string>
+    <string>mk4fuselage-1</string>
+    <string>mk4tail-1</string>
+    <string>mk4adapter-3</string>
+    <string>mk4cargo-drop-3</string>
+    <string>mk4servicebay-1</string>
+    <string>mk4tail-3</string>
+    <string>mk4cargo-drop-1</string>
+    <string>mk4adapter-1</string>
+    <string>mk4fuselage-2</string>
+    <string>mk4cargo-2</string>
+    <string>mk4cargo-3</string>
+    <string>mk4cargo-1</string>
+    <string>mk4fuselage-3</string>
+    <string>mk4cargo-drop-2</string>
+    <string>mk4nose-docking</string>
+    <string>mk4nose</string>
+    <string>mk4cockpit-1</string>
+    <string>mk4cockpit-2</string>
+    <string>mk4crewcabin-1</string>
+    <string>mk4drone-1</string>
+    <string>mk4rcsblister-2</string>
+    <string>mk4cockpit-shoulder-1</string>
+    <string>mk4cockpit-shoulder-2</string>
+    <string>mk4cockpit-shoulder-3</string>
+    <string>nfa-atomic-jet-25-1</string>
+    <string>nfa-atomic-multimode-25-1</string>
+    <string>nfa-turbofan-25-2</string>
+    <string>nfa-turbofan-25-1</string>
+    <string>nfa-turbojet-25-1</string>
+    <string>nfa-liftfan-25-1</string>
+    <string>nfa-liftfan-10-1</string>
+    <string>nfa-liftfan-375-1</string>
+    <string>nfa-multimodal-125-1</string>
+    <string>nfa-multimodal-25-1</string>
+    <string>nfa-multimodal-25-2</string>
+    <string>nfa-turboprop-125-1</string>
+    <string>nfa-propfan-125-1</string>
+    <string>nfa-vtol-0625-1</string>
+    <string>nfa-vtol-125-1</string>
+    <string>nfa-fueltank-25-3</string>
+    <string>nfa-fueltank-25-1</string>
+    <string>nfa-fueltank-25-4</string>
+    <string>nfa-intake-largeshock</string>
+    <string>nfa-enginenacelle-25-1</string>
+    <string>nfa-intake-largecircular</string>
+    <string>nfa-intake-radial-2</string>
+    <string>nfa-fueltank-25-2</string>
+    <string>nfa-enginecooler-25-1</string>
+    <string>nfa-enginepod-large-1</string>
+    <string>nfa-enginenacelle-25-2</string>
+    <string>nfa-enginepod-2</string>
+    <string>nfa-intake-largeramp</string>
+    <string>nfa-intake-radial-1</string>
+    <string>nfa-enginepod-1</string>
+    <string>nfa-rcsblister-1</string>
+    <string>blue.steel.air.intake.mount.s1</string>
+    <string>blue.steel.air.intake.mount.s2</string>
+    <string>blue.steel.avionics.s0.1</string>
+    <string>blue.steel.cargo.bay.s0</string>
+    <string>blue.steel.cargo.bay.s1.1</string>
+    <string>blue.steel.cargo.bay.s1.2</string>
+    <string>blue.steel.cockpit.mk1</string>
+    <string>blue.steel.cockpit.s0</string>
+    <string>blue.steel.crew.bay.s1.2</string>
+    <string>blue.steel.crew.s1.1</string>
+    <string>blue.steel.docking.adapter.s1.1</string>
+    <string>blue.steel.docking.adapter.s1.2</string>
+    <string>blue.steel.fuel.tank.s0.1</string>
+    <string>blue.steel.fuel.tank.s1.1</string>
+    <string>blue.steel.fuel.tank.s1.2</string>
+    <string>blue.steel.fuel.tank.tail.curved.s1</string>
+    <string>blue.steel.fuel.tank.tail.s1</string>
+    <string>blue.steel.liquidfuel.tank.s1</string>
+    <string>BlueSteel.RCS.srf</string>
+    <string>blue.steel.shuttle.s0</string>
+    <string>blue.steel.winglet.srf.1</string>
+    <string>blue.steel.winglet.srf.2</string>
+    <string>blue.steel.winglet.srf.3</string>
+    <string>blue.steel.winglet.srf.4</string>
+    <string>blue.steel.winglet.srf.5</string>
+    <string>blue.steel.winglet.srf.6</string>
+    <string>blue.steel.engine.s0.1</string>
+    <string>blue.steel.engine.s1.1</string>
+    <string>blue.steel.engine.sabre.s00</string>
+    <string>blue.steel.engine.turbojet.s00</string>
+    <string>blue.steel.landing.gear.srf.1</string>
+    <string>blue.steel.landing.gear.srf.1.small</string>
+    <string>blue.steel.landing.gear.srf.3</string>
+    <string>blue.steel.landing.gear.srf.3.small</string>
+    <string>blue.steel.landing.skid.srf.1</string>
+    <string>blue.steel.landing.skid.srf.1.small</string>
+    <string>blue.steel.landing.skid.srf.3</string>
+    <string>blue.steel.landing.skid.srf.3.small</string>
+    <string>JSIPrimitiveExternalCamera.v2</string>
+    <string>JSIPrimitiveExternalCamera</string>
+    <string>Airpark.InfoDrive</string>
+    <string>OPTUpgradeHeat1</string>
+    <string>OPTUpgradeHeat2</string>
+    <string>OPTUpgradeIon1</string>
+    <string>AAengine</string>
+    <string>engine.darkDrive</string>
+    <string>opt.mk2.engine.short</string>
+    <string>opt.nebula.engine</string>
+    <string>opt.vtol.jumpa2</string>
+    <string>opt.vtol.jumpa1</string>
+    <string>opt.vtol.wrapj2</string>
+    <string>opt.vtol.wrapj1</string>
+    <string>opt.vtol.wrapk2</string>
+    <string>opt.vtol.wrapk1</string>
+    <string>h.2m.em.fm</string>
+    <string>h.2m.em.mm</string>
+    <string>h.2m.nose.fm</string>
+    <string>h.2m.nose.mm</string>
+    <string>h.3m.crew.fm</string>
+    <string>h.3m.crew.mm</string>
+    <string>h.3m.fuel.fm</string>
+    <string>h.3m.fuel.mm</string>
+    <string>h.4m.nose.fm</string>
+    <string>h.4m.nose.mm</string>
+    <string>h.drone.fm</string>
+    <string>h.drone.mm</string>
+    <string>i.4m.cockpit.isp</string>
+    <string>i.4m.tail</string>
+    <string>phoenix.cockpit</string>
+    <string>ils.cockpitv2</string>
+    <string>ij.adaptor</string>
+    <string>ij.4m.adaptor.variant</string>
+    <string>j.2m.bicoupler</string>
+    <string>j.docking.port</string>
+    <string>j.2m.tanks</string>
+    <string>j.2m.inlineBoardingRamp</string>
+    <string>j.deploymentBay</string>
+    <string>j.large.docking.port</string>
+    <string>j.3m.rearHatch</string>
+    <string>j.4m.cargo</string>
+    <string>j.4m.crew</string>
+    <string>j.engineMount.4</string>
+    <string>j.4m.tanks</string>
+    <string>j.4m.lab</string>
+    <string>j.4m.service</string>
+    <string>j.5m.nose</string>
+    <string>j.5m.tail</string>
+    <string>j.6m.cockpit</string>
+    <string>j.cockpitv2</string>
+    <string>j.cockpit.qs</string>
+    <string>j.cockpit.qs.no.intake</string>
+    <string>j.linear.aerospike</string>
+    <string>j.4m.drone</string>
+    <string>j.4m.droneRCS</string>
+    <string>j.sas</string>
+    <string>jk.3m.adaptor</string>
+    <string>jk.7m.adaptor</string>
+    <string>k.10m.cockpit</string>
+    <string>k.2m.bicoupler</string>
+    <string>k.3m.fuelTank</string>
+    <string>k.3m.fuselage</string>
+    <string>k.3m.tricoupler</string>
+    <string>k.6m.cargo</string>
+    <string>k.6m.fuelTank</string>
+    <string>k.6m.fuselage</string>
+    <string>k.7m.cargoTail</string>
+    <string>k.7m.cargoTail.variant</string>
+    <string>kh.3m.cargo</string>
+    <string>kh.3m.fuselage</string>
+    <string>kh.6m.cargo</string>
+    <string>kh.6m.fuselage</string>
+    <string>kh.7m.cargoTail</string>
+    <string>kh.7m.cargoTail.variant</string>
+    <string>mk2j.adaptor</string>
+    <string>k.3m.droneRCS</string>
+    <string>k.oms</string>
+    <string>k.oms.hollow</string>
+    <string>kh.oms.hollow</string>
+    <string>opt.s2intake</string>
+    <string>k.10m.cockpit.custom</string>
+    <string>k.3m.crew</string>
+    <string>k.3m.lab</string>
+    <string>k.10m.cockpit.legacy</string>
+    <string>mk2.nose.opt</string>
+    <string>mk2.ramIntake</string>
+    <string>mk2.cockpitv2</string>
+    <string>opt.oms.black</string>
+    <string>opt.oms.grey</string>
+    <string>opt.rcs.black</string>
+    <string>opt.rcs.grey</string>
+    <string>opt.retro.rcs</string>
+    <string>opt.pylon.a</string>
+    <string>opt.pylon.b</string>
+    <string>opt.stabilizer.a</string>
+    <string>opt.stabilizer.b</string>
+    <string>opt.wing.a</string>
+    <string>opt.wing.a.elevon</string>
+    <string>opt.wing.b</string>
+    <string>opt.wing.b.elevon</string>
+    <string>opt.wing.c</string>
+    <string>opt.wing.c.elevon1</string>
+    <string>opt.wing.c.elevon2</string>
+    <string>opt.winglet.a</string>
+    <string>opt.winglet.a.elevon</string>
+    <string>opt.winglet.b</string>
+    <string>opt.winglet.b.elevon</string>
+    <string>opt.winglet.c</string>
+    <string>opt.winglet.c.elevon</string>
+    <string>KzResizableFairingBaseRing</string>
+    <string>KzResizableFairingBase</string>
+    <string>KzInterstageAdapter2</string>
+    <string>KzThrustPlate</string>
+    <string>KzProcFairingSide1</string>
+    <string>KzProcFairingSide1.TU</string>
+    <string>KzProcFairingSide2</string>
+    <string>KzProcFairingSide2.TU</string>
+    <string>RSBTrussBase</string>
+    <string>SSTUBase</string>
+    <string>RSBRibbedBase.Interstage</string>
+    <string>RSBTrussBase.Interstage</string>
+    <string>SSTUHollowRing</string>
+    <string>SSTUHollowRing.Interstage</string>
+    <string>SSTUBase.Interstage</string>
+    <string>RSBRibbedBase</string>
+    <string>proceduralStackDecoupler</string>
+    <string>proceduralHeatshield</string>
+    <string>proceduralBattery</string>
+    <string>proceduralTankLiquid</string>
+    <string>proceduralTankOre</string>
+    <string>proceduralTankXenon</string>
+    <string>proceduralTankRCS</string>
+    <string>proceduralStructural</string>
+    <string>proceduralNoseCone</string>
+    <string>proceduralTankSRB</string>
+    <string>conformaldecals-flag</string>
+    <string>conformaldecals-text</string>
+    <string>conformaldecals-semiotic</string>
+    <string>conformaldecals-generic</string>
+    <string>conformaldecals-munar</string>
+    <string>KBChute0625</string>
+    <string>KBChute125</string>
+    <string>KBChute25</string>
+    <string>KBChute375</string>
+    <string>KBCrossStaff</string>
+    <string>KBDataRecorder</string>
+    <string>KBSunDial</string>
+    <string>ServiceBay.0625</string>
+    <string>universalBalloonHP</string>
+    <string>bahaGatlingGun</string>
+    <string>bahaTurret</string>
+    <string>bahaABL</string>
+    <string>bahaAdjustableRail</string>
+    <string>bahaAgm86B</string>
+    <string>bahaAim120</string>
+    <string>AMRAAM.EMP</string>
+    <string>bdPilotAI</string>
+    <string>bdShipAI</string>
+    <string>baha20mmAmmo</string>
+    <string>baha30mmAmmo</string>
+    <string>baha50CalAmmo</string>
+    <string>BDAcUniversalAmmoBox</string>
+    <string>bahaCannonShellBox</string>
+    <string>UniversalAmmoBoxBDA</string>
+    <string>BD1x1slopeArmor</string>
+    <string>BD2x1slopeArmor</string>
+    <string>BD1x1panelArmor</string>
+    <string>BD2x1panelArmor</string>
+    <string>BD3x1panelArmor</string>
+    <string>BD4x1panelArmor</string>
+    <string>awacsRadar</string>
+    <string>bdammGuidanceModule</string>
+    <string>bahaBrowningAnm2</string>
+    <string>bahaClusterBomb</string>
+    <string>bahaChaffPod</string>
+    <string>bahaCmPod</string>
+    <string>bahaECMJammer</string>
+    <string>bahaGau-8</string>
+    <string>GoalKeeperBDAcMk1</string>
+    <string>BDAcGKmk2</string>
+    <string>bahaGoalKeeper</string>
+    <string>scanLockRadar1</string>
+    <string>scanLargeRadar</string>
+    <string>bahaH70Launcher</string>
+    <string>bahaH70Turret</string>
+    <string>bahaHarm</string>
+    <string>bahaHEKV1</string>
+    <string>bahaAGM-114</string>
+    <string>HellfireEMP</string>
+    <string>bahaHiddenVulcan</string>
+    <string>bahaJdamMk83</string>
+    <string>bahaM102Howitzer</string>
+    <string>bahaM1Abrams</string>
+    <string>bahaM230ChainGun</string>
+    <string>bahaAGM-65</string>
+    <string>missileTurretTest</string>
+    <string>bahaMk82BombBrake</string>
+    <string>bahaMk82Bomb</string>
+    <string>bahaOMillennium</string>
+    <string>bahaPac-3</string>
+    <string>patriotLauncherTurret</string>
+    <string>radarDataReceiver</string>
+    <string>bdRadome1</string>
+    <string>bdRadome1GA</string>
+    <string>bdRadome1inline</string>
+    <string>bdRadome1inlineGA</string>
+    <string>bdRadome1snub</string>
+    <string>bdRadome1snubGA</string>
+    <string>bahaRBS-15ALCruise</string>
+    <string>bahaRBS-15Cruise</string>
+    <string>bdRotBombBay</string>
+    <string>bahaS-8Launcher</string>
+    <string>SaturnAL31</string>
+    <string>bahaAim9</string>
+    <string>bdWarheadSmall</string>
+    <string>bahaSmokeCmPod</string>
+    <string>BDAsonarPod1A</string>
+    <string>StingRayBDATorpedo</string>
+    <string>bahaFlirBall</string>
+    <string>bahaCamPod</string>
+    <string>towLauncherTurret</string>
+    <string>bahaTowMissile</string>
+    <string>missileController</string>
+    <string>hanglel</string>
+    <string>hangles</string>
+    <string>vanglel</string>
+    <string>vangles</string>
+    <string>bigwing</string>
+    <string>hlfSrf</string>
+    <string>fatwing0</string>
+    <string>fatwing1</string>
+    <string>fatwing2</string>
+    <string>fatwing3</string>
+    <string>fatwing4</string>
+    <string>fatwing5</string>
+    <string>fatwing6</string>
+    <string>migfin</string>
+    <string>warhawkfin</string>
+    <string>doublefowlerflap</string>
+    <string>fowlerflap</string>
+    <string>kruegerflap</string>
+    <string>spoilerflap</string>
+    <string>straightslat</string>
+    <string>mk1intake</string>
+    <string>noseconemk1</string>
+    <string>roundwinglet</string>
+    <string>elevon2b</string>
+    <string>smallwingConnector1</string>
+    <string>smallwingConnector2</string>
+    <string>smallwingConnector3</string>
+    <string>smallwingConnector4</string>
+    <string>smallwingConnector6</string>
+    <string>smallwingConnector5</string>
+    <string>smallwingConnectortip</string>
+    <string>stubbytinynose</string>
+    <string>tinynoseb</string>
+    <string>144cockpit</string>
+    <string>airbuscockpit</string>
+    <string>b29cockpit</string>
+    <string>bellcockpit</string>
+    <string>bombardiercockpit</string>
+    <string>cessnacabin</string>
+    <string>cessnacockpit</string>
+    <string>citationcockpit</string>
+    <string>concordecockpit</string>
+    <string>falconcockpit</string>
+    <string>fightercockpit</string>
+    <string>fighterinlinecockpit</string>
+    <string>mk3galaxy</string>
+    <string>herculescockpit</string>
+    <string>hipcockpit</string>
+    <string>hueycockpit</string>
+    <string>mk1DroneCore</string>
+    <string>mk1SasModule</string>
+    <string>oh6cockpit</string>
+    <string>oldfightercockpit</string>
+    <string>x1cockpit</string>
+    <string>zerocockpit</string>
+    <string>51prop</string>
+    <string>chaikaprop</string>
+    <string>fokkerprop</string>
+    <string>hawkerprop</string>
+    <string>spadprop</string>
+    <string>152Prop</string>
+    <string>609prop</string>
+    <string>cf34</string>
+    <string>cfm56</string>
+    <string>f5jet</string>
+    <string>herculesprop</string>
+    <string>KP12</string>
+    <string>predatorprop</string>
+    <string>raptorjet</string>
+    <string>tbmProp</string>
+    <string>109Prop</string>
+    <string>corsairprop</string>
+    <string>duplexcyclone</string>
+    <string>fighterProp</string>
+    <string>merlin</string>
+    <string>spitfiremerlin</string>
+    <string>yakprop</string>
+    <string>zeroprop</string>
+    <string>bellprop</string>
+    <string>belltail</string>
+    <string>blackhawkprop</string>
+    <string>chinookprop</string>
+    <string>coaxialprop</string>
+    <string>hipprop</string>
+    <string>hiptail</string>
+    <string>hueyprop</string>
+    <string>hueytail</string>
+    <string>powerprop</string>
+    <string>powertail</string>
+    <string>airramp</string>
+    <string>mk1cargodoor</string>
+    <string>mk1cargodoorjr</string>
+    <string>mk1dronedoor</string>
+    <string>passengeroor</string>
+    <string>s1p5booma</string>
+    <string>s1p5boomashort</string>
+    <string>s1p5boomb</string>
+    <string>s1p5boombshort</string>
+    <string>s1p5CrewCabin</string>
+    <string>s1p5door</string>
+    <string>s1p5hull</string>
+    <string>s1p5hulllong</string>
+    <string>miniboom</string>
+    <string>halfmini</string>
+    <string>minishortboom</string>
+    <string>JuniorFuselage</string>
+    <string>Mk1JuniorStructural</string>
+    <string>Mk1SlantStructural</string>
+    <string>mk2hAdapter</string>
+    <string>mk2hLiquid</string>
+    <string>mk2hboom</string>
+    <string>mk2mk2h</string>
+    <string>mk3s0-s0</string>
+    <string>mk3s0</string>
+    <string>mk3s0booma</string>
+    <string>mk3s0boomb</string>
+    <string>mk3s0jr</string>
+    <string>mk3s0nose</string>
+    <string>mk3s1-s1</string>
+    <string>mk3s1</string>
+    <string>mk3s1booma</string>
+    <string>mk3s1boomb</string>
+    <string>mk3s1intake</string>
+    <string>mk3s1jr</string>
+    <string>mk3s1nose</string>
+    <string>mk3s1p5-mk3s1</string>
+    <string>mk3s1p5-s1p5</string>
+    <string>mk3s1p5</string>
+    <string>mk3s1p5doorbase</string>
+    <string>mk3s1p5hull</string>
+    <string>mk3s1p5jr</string>
+    <string>s1p5</string>
+    <string>s1p5jr</string>
+    <string>shortboom</string>
+    <string>shortboomb</string>
+    <string>size2taila</string>
+    <string>size2tailashort</string>
+    <string>size2tailb</string>
+    <string>size2tailbshort</string>
+    <string>S2Hull</string>
+    <string>s2CargoRamp</string>
+    <string>s2cargobayS</string>
+    <string>size2CrewCabin</string>
+    <string>size2Fuselage</string>
+    <string>size2under</string>
+    <string>S2Structural</string>
+    <string>S1APU</string>
+    <string>S1p5APU</string>
+    <string>S2APU</string>
+    <string>navlight</string>
+    <string>landingskid</string>
+    <string>biplanegear</string>
+    <string>blackhawkgear</string>
+    <string>miggear</string>
+    <string>airbusreargear</string>
+    <string>b29gear</string>
+    <string>fightergear</string>
+    <string>herculesfrontgear</string>
+    <string>herculesgear</string>
+    <string>sidegear</string>
+    <string>x1gear</string>
+    <string>x1sidegear</string>
+    <string>KF-ALG-Large</string>
+    <string>KF-ALG-Medium</string>
+    <string>KF-ALG-Small</string>
+    <string>KF-ALG-SmallSide</string>
+    <string>KF-APU</string>
+    <string>KF-LegAero</string>
+    <string>KF-LegExtending</string>
+    <string>KF-LegFolding</string>
+    <string>KF-RepulsorStandard</string>
+    <string>KF-RepulsorSurface</string>
+    <string>KF-ScrewDrive</string>
+    <string>KF-Skid</string>
+    <string>KF-TrackInverting</string>
+    <string>KF-TrackLong</string>
+    <string>KF-TrackMedium</string>
+    <string>KF-TrackMole</string>
+    <string>KF-TrackSimple</string>
+    <string>KF-TrackSmall</string>
+    <string>KF-TrackSurface</string>
+    <string>KF-TrackTiny</string>
+    <string>KF-WheelLarge</string>
+    <string>KF-WheelMedium</string>
+    <string>KF-WheelSmall</string>
+    <string>KF-WheelTiny</string>
+    <string>KF-WheelTruck-Dual</string>
+    <string>KF-WheelTruck-Single</string>
   </AllowedParts>
   <AllowedResources>
+    <string>LiquidFuel</string>
+    <string>Oxidizer</string>
+    <string>SolidFuel</string>
+    <string>MonoPropellant</string>
+    <string>XenonGas</string>
+    <string>ElectricCharge</string>
+    <string>IntakeAir</string>
+    <string>EVA Propellant</string>
+    <string>Ore</string>
+    <string>Ablator</string>
     <string>Hydrates</string>
     <string>Gypsum</string>
     <string>IntakeLqd</string>
@@ -1561,15 +1606,70 @@
     <string>Glykerol</string>
     <string>FusionPellets</string>
     <string>MJPropellant</string>
-    <string>LiquidFuel</string>
-    <string>Oxidizer</string>
-    <string>SolidFuel</string>
-    <string>MonoPropellant</string>
-    <string>XenonGas</string>
-    <string>ElectricCharge</string>
-    <string>IntakeAir</string>
-    <string>EVA Propellant</string>
-    <string>Ore</string>
-    <string>Ablator</string>
+    <string>_Cooler</string>
+    <string>OBH</string>
+    <string>DarkGoo</string>
+    <string>DarkScience</string>
+    <string>Armor</string>
+    <string>LaserBolt</string>
+    <string>7.62x39Ammo</string>
+    <string>7.7x56Ammo</string>
+    <string>7.92x57mmMauser</string>
+    <string>9x19mmParaAmmo</string>
+    <string>50CalAmmo</string>
+    <string>20x21Ammo</string>
+    <string>20x102Ammo</string>
+    <string>20x163Ammo</string>
+    <string>23x115Ammo</string>
+    <string>23x152Ammo</string>
+    <string>25x137Ammo</string>
+    <string>30x165Ammo</string>
+    <string>30x173Ammo</string>
+    <string>30x173HEAmmo</string>
+    <string>37mmFlaKAmmo</string>
+    <string>40x53Ammo</string>
+    <string>40x53HeAmmo</string>
+    <string>40x311Ammo</string>
+    <string>54cmMortarShells</string>
+    <string>57x438Ammo</string>
+    <string>TungstenShell</string>
+    <string>75x714Ammo</string>
+    <string>76x636Ammo</string>
+    <string>3inchShells</string>
+    <string>90mmShells</string>
+    <string>100mmShells</string>
+    <string>CannonShells</string>
+    <string>105mmShells</string>
+    <string>105mmHEShells</string>
+    <string>4p5inchQFShells</string>
+    <string>120mmAmmo</string>
+    <string>122mmQFShells</string>
+    <string>130Shells</string>
+    <string>5/62Shell</string>
+    <string>QF5-25Shell</string>
+    <string>138_140Shells</string>
+    <string>152Shells</string>
+    <string>155Shells</string>
+    <string>180Shells</string>
+    <string>203Shells</string>
+    <string>12inShells</string>
+    <string>356ApAmmo</string>
+    <string>356Shells</string>
+    <string>380Shells</string>
+    <string>M65ShellAmmo</string>
+    <string>406mmNuclearShells</string>
+    <string>16inchShells</string>
+    <string>460Shells</string>
+    <string>11inShells</string>
+    <string>Type4Rocket</string>
+    <string>ATRocket</string>
+    <string>Hades122rocket</string>
+    <string>Hydra70Rocket</string>
+    <string>S-8KOMRocket</string>
+    <string>CMFlare</string>
+    <string>CMSmoke</string>
+    <string>CMChaff</string>
+    <string>HighExplosive</string>
+    <string>FSCoolant</string>
   </AllowedResources>
 </ModControlStructure>
